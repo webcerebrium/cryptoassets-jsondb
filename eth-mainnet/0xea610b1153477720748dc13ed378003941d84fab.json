@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xea610b1153477720748dc13ed378003941d84fab",
+    "address": "0xea610b1153477720748dc13ed378003941d84fab",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xea610b1153477720748dc13ed378003941d84fab"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "icon": "icons\/alis_28.png",
+    "name": "AlisToken",
+    "totalSupply": "75209200",
+    "symbol": "ALIS",
+    "reputation": "NEUTRAL"
+}

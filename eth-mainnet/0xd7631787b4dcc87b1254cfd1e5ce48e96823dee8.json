@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8",
+    "address": "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:00+00:00",
+    "icon": "icons\/socialcoin_28.png",
+    "name": "SOCIAL",
+    "totalSupply": "16714019.66436979",
+    "symbol": "SCL",
+    "reputation": "NEUTRAL"
+}

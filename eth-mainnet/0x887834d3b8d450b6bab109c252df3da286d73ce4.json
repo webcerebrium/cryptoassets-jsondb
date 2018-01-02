@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x887834d3b8d450b6bab109c252df3da286d73ce4",
+    "address": "0x887834d3b8d450b6bab109c252df3da286d73ce4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x887834d3b8d450b6bab109c252df3da286d73ce4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "icon": "icons\/atmatrix_28.png",
+    "name": "Atmatrix",
+    "totalSupply": "300000000",
+    "symbol": "ATT",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xbc63acdfafa94bd4d8c2bb7a8552281f107242c0",
+    "address": "0xbc63acdfafa94bd4d8c2bb7a8552281f107242c0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xbc63acdfafa94bd4d8c2bb7a8552281f107242c0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:32+00:00",
+    "name": "MaxxToken",
+    "totalSupply": "21000000000",
+    "symbol": "MXX",
+    "reputation": "UNKNOWN"
+}

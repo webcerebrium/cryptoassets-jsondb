@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x275fd328c3986be83f8b60f79c73cf63fde98ca5",
+    "address": "0x275fd328c3986be83f8b60f79c73cf63fde98ca5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x275fd328c3986be83f8b60f79c73cf63fde98ca5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:05+00:00",
+    "name": "CryptoSocial",
+    "totalSupply": "21000000",
+    "symbol": "CSL",
+    "reputation": "UNKNOWN"
+}

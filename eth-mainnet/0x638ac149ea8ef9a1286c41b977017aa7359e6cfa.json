@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x638ac149ea8ef9a1286c41b977017aa7359e6cfa",
+    "address": "0x638ac149ea8ef9a1286c41b977017aa7359e6cfa",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x638ac149ea8ef9a1286c41b977017aa7359e6cfa"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:48+00:00",
+    "icon": "icons\/altcoins_28.png",
+    "name": "Altcoins",
+    "symbol": "Altcoins"
+}

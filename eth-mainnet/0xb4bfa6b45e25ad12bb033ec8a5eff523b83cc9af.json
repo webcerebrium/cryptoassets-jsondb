@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xb4bfa6b45e25ad12bb033ec8a5eff523b83cc9af",
+    "address": "0xb4bfa6b45e25ad12bb033ec8a5eff523b83cc9af",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb4bfa6b45e25ad12bb033ec8a5eff523b83cc9af"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:02+00:00",
+    "name": "UAHPAY",
+    "totalSupply": "1000000000",
+    "symbol": "UAHPAY",
+    "reputation": "UNKNOWN"
+}

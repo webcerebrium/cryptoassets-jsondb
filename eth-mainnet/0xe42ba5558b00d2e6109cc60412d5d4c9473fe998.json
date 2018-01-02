@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xe42ba5558b00d2e6109cc60412d5d4c9473fe998",
+    "address": "0xe42ba5558b00d2e6109cc60412d5d4c9473fe998",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe42ba5558b00d2e6109cc60412d5d4c9473fe998"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:04+00:00",
+    "icon": "icons\/immcoin_28.png",
+    "name": "iMM Coin",
+    "totalSupply": "300000000",
+    "symbol": "IMC",
+    "reputation": "NEUTRAL"
+}

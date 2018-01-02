@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd6e49800decb64c0e195f791348c1e87a5864fd7",
+    "address": "0xd6e49800decb64c0e195f791348c1e87a5864fd7",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd6e49800decb64c0e195f791348c1e87a5864fd7"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:06+00:00",
+    "name": "ReceiptCoin",
+    "totalSupply": "500000000",
+    "symbol": "RC",
+    "reputation": "UNKNOWN"
+}

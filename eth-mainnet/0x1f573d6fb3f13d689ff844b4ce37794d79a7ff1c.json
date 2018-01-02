@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/bancor.png",
+    "name": "Bancor",
+    "symbol": "Bancor"
+}

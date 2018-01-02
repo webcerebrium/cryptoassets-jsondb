@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+    "address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/ixledger28.png",
+    "name": "iXledger",
+    "totalSupply": "65778843.83119764",
+    "symbol": "IXT",
+    "reputation": "NEUTRAL"
+}

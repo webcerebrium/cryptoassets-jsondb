@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xdd6bf56ca2ada24c683fac50e37783e55b57af9f",
+    "address": "0xdd6bf56ca2ada24c683fac50e37783e55b57af9f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xdd6bf56ca2ada24c683fac50e37783e55b57af9f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/bnc_28.png",
+    "name": "BraveNewCoin",
+    "totalSupply": "100000000",
+    "symbol": "BNC",
+    "reputation": "NEUTRAL"
+}

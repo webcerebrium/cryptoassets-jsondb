@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x936f78b9852d12f5cb93177c1f84fb8513d06263",
+    "address": "0x936f78b9852d12f5cb93177c1f84fb8513d06263",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x936f78b9852d12f5cb93177c1f84fb8513d06263"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "name": "Golem Network Token Wrapped",
+    "totalSupply": "19662.049652831665985391",
+    "symbol": "GNTW",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xe463d10ec6b4ff6a3e5be41144956116ca30d4c3",
+    "address": "0xe463d10ec6b4ff6a3e5be41144956116ca30d4c3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe463d10ec6b4ff6a3e5be41144956116ca30d4c3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:21+00:00",
+    "name": "7ype Coins",
+    "totalSupply": "100000",
+    "symbol": "7YPE",
+    "reputation": "UNKNOWN"
+}

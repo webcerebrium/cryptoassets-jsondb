@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x7a79abd3905ef37b8d243c4c28cee73a751eb076",
+    "address": "0x7a79abd3905ef37b8d243c4c28cee73a751eb076",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7a79abd3905ef37b8d243c4c28cee73a751eb076"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:26+00:00",
+    "name": "CoinsMet",
+    "totalSupply": "10000000",
+    "symbol": "CM",
+    "reputation": "UNKNOWN"
+}

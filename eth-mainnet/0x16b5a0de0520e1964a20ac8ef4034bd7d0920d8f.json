@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x16b5a0de0520e1964a20ac8ef4034bd7d0920d8f",
+    "address": "0x16b5a0de0520e1964a20ac8ef4034bd7d0920d8f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x16b5a0de0520e1964a20ac8ef4034bd7d0920d8f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:59+00:00",
+    "icon": "icons\/tiotoken_28.png",
+    "name": "Tio",
+    "totalSupply": "17100000",
+    "symbol": "TIO",
+    "reputation": "NEUTRAL"
+}

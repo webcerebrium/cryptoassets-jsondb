@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x31b5e97294e1afd6fff6ffe4cba89a344555f753",
+    "address": "0x31b5e97294e1afd6fff6ffe4cba89a344555f753",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x31b5e97294e1afd6fff6ffe4cba89a344555f753"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:58+00:00",
+    "icon": "icons\/tripally_28.jpg",
+    "name": "TripAllyCrowdsale",
+    "symbol": "TripAllyCrowdsale"
+}

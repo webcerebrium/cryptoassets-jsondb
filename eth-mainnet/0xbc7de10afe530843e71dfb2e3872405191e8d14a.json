@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xbc7de10afe530843e71dfb2e3872405191e8d14a",
+    "address": "0xbc7de10afe530843e71dfb2e3872405191e8d14a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xbc7de10afe530843e71dfb2e3872405191e8d14a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "name": "SHOUCAIR",
+    "totalSupply": "100000000",
+    "symbol": "SHOUC",
+    "reputation": "UNKNOWN"
+}

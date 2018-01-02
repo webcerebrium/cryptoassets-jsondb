@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x7f2176ceb16dcb648dc924eff617c3dc2befd30d",
+    "address": "0x7f2176ceb16dcb648dc924eff617c3dc2befd30d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7f2176ceb16dcb648dc924eff617c3dc2befd30d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:51+00:00",
+    "icon": "icons\/ohni28.png",
+    "name": "Ohni",
+    "symbol": "Ohni"
+}

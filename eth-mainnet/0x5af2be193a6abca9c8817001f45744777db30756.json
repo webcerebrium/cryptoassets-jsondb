@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x5af2be193a6abca9c8817001f45744777db30756",
+    "address": "0x5af2be193a6abca9c8817001f45744777db30756",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5af2be193a6abca9c8817001f45744777db30756"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/ethos_28.png",
+    "name": "Ethos",
+    "totalSupply": "222295208.23845323",
+    "symbol": "ETHOS",
+    "reputation": "OK"
+}

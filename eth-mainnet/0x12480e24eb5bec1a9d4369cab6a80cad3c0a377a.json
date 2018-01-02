@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
+    "address": "0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:05+00:00",
+    "icon": "icons\/substratum_28.png",
+    "name": "Substratum",
+    "symbol": "Substratum"
+}

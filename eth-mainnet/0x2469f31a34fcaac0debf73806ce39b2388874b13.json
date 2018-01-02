@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x2469f31a34fcaac0debf73806ce39b2388874b13",
+    "address": "0x2469f31a34fcaac0debf73806ce39b2388874b13",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2469f31a34fcaac0debf73806ce39b2388874b13"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:05+00:00",
+    "icon": "icons\/prooftoken_28.png",
+    "name": "ProofPresale",
+    "symbol": "ProofPresale"
+}

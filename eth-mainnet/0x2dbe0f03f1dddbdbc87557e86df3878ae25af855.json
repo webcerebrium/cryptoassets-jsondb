@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x2dbe0f03f1dddbdbc87557e86df3878ae25af855",
+    "address": "0x2dbe0f03f1dddbdbc87557e86df3878ae25af855",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2dbe0f03f1dddbdbc87557e86df3878ae25af855"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:28+00:00",
+    "icon": "icons\/hashrush_28.png",
+    "name": "HashRush",
+    "totalSupply": "5633309.61723559",
+    "symbol": "RC",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd0800859d6f4bc0210b7807e770bc44a9ece7372",
+    "address": "0xd0800859d6f4bc0210b7807e770bc44a9ece7372",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd0800859d6f4bc0210b7807e770bc44a9ece7372"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:41+00:00",
+    "icon": "icons\/staticoin_usd-r_28.png",
+    "name": "USD Risk",
+    "totalSupply": "2.134023508107362197",
+    "symbol": "USD_R",
+    "reputation": "NEUTRAL"
+}

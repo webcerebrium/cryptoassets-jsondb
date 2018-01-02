@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x179a2e413386db620d5b89a18550a3874385f726",
+    "address": "0x179a2e413386db620d5b89a18550a3874385f726",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x179a2e413386db620d5b89a18550a3874385f726"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:12+00:00",
+    "name": "Fitcoin",
+    "totalSupply": "50000000",
+    "symbol": "FIT",
+    "reputation": "UNKNOWN"
+}

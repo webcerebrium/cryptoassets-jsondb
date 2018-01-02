@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63",
+    "address": "0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:55+00:00",
+    "icon": "icons\/zeusshield_28.png",
+    "name": "ZeusShieldCoin",
+    "totalSupply": "5642500000",
+    "symbol": "ZSC",
+    "reputation": "NEUTRAL"
+}

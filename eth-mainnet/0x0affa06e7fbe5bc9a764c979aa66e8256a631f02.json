@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
+    "address": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:56+00:00",
+    "icon": "icons\/polybius.png",
+    "name": "Polybius",
+    "symbol": "Polybius"
+}

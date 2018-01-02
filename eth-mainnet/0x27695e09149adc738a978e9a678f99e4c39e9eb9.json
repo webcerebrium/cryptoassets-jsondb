@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x27695e09149adc738a978e9a678f99e4c39e9eb9",
+    "address": "0x27695e09149adc738a978e9a678f99e4c39e9eb9",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x27695e09149adc738a978e9a678f99e4c39e9eb9"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "icon": "icons\/kickcoin_28.png",
+    "name": "KickCoin",
+    "totalSupply": "488095563.83098262",
+    "symbol": "KICK",
+    "reputation": "NEUTRAL"
+}

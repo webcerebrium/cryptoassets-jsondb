@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7c53f13699e1f6ef5c699e893a20948bdd2e4de9",
+    "address": "0x7c53f13699e1f6ef5c699e893a20948bdd2e4de9",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7c53f13699e1f6ef5c699e893a20948bdd2e4de9"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:14+00:00",
+    "icon": "icons\/dividendtoken_28.png",
+    "name": "Dividend",
+    "totalSupply": "1000000",
+    "symbol": "DVD",
+    "reputation": "NEUTRAL"
+}

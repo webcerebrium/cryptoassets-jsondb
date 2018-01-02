@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
+    "address": "0x8b1f49491477e0fb46a29fef53f1ea320d13c349",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8b1f49491477e0fb46a29fef53f1ea320d13c349"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:11+00:00",
+    "icon": "icons\/micromoney.png",
+    "name": "MicroMoney",
+    "totalSupply": "17532943.47918",
+    "symbol": "AMM",
+    "reputation": "NEUTRAL"
+}

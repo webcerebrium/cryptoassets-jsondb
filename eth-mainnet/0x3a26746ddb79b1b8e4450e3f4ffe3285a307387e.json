@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e",
+    "address": "0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x3a26746ddb79b1b8e4450e3f4ffe3285a307387e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "icon": "icons\/etherbtc2_28.png",
+    "name": "Etherbtc",
+    "totalSupply": "21000000",
+    "symbol": "ETHB",
+    "reputation": "NEUTRAL"
+}

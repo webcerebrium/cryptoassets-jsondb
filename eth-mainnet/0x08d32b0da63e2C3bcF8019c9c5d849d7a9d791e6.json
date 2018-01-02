@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+    "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "icon": "icons\/Dentacoin.png",
+    "name": "Dentacoin",
+    "totalSupply": "8000000000000",
+    "symbol": "Dentacoin",
+    "reputation": "UNKNOWN"
+}

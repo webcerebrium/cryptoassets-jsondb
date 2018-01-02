@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xfb7da9863e030495db8b4d067d665fc8433fff85",
+    "address": "0xfb7da9863e030495db8b4d067d665fc8433fff85",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xfb7da9863e030495db8b4d067d665fc8433fff85"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:01+00:00",
+    "icon": "icons\/pcorn_28.png",
+    "name": "Pcc",
+    "symbol": "Pcc"
+}

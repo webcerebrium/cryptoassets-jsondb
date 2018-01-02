@@ -1,0 +1,17 @@
+{
+
+    "_id": "NEO-1-b951ecbbc5fe37a9c280a76cb0ce0014827294cf",
+    "address": "b951ecbbc5fe37a9c280a76cb0ce0014827294cf",
+    "type": "token",
+    "format": "NEP5",
+    "explorer": [
+        "https://neotracker.io/contract/b951ecbbc5fe37a9c280a76cb0ce0014827294cf"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/DBC.png",
+    "name": "Deep Brain Chain",
+    "symbol": "DBC"
+}

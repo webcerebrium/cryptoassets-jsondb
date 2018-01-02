@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf333b2ace992ac2bbd8798bf57bc65a06184afba",
+    "address": "0xf333b2ace992ac2bbd8798bf57bc65a06184afba",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf333b2ace992ac2bbd8798bf57bc65a06184afba"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:06+00:00",
+    "icon": "icons\/sandcoin_28.png",
+    "name": "SND Token 1.0",
+    "totalSupply": "2684319",
+    "symbol": "SND",
+    "reputation": "NEUTRAL"
+}

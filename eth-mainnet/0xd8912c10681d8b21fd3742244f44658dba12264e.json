@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd8912c10681d8b21fd3742244f44658dba12264e",
+    "address": "0xd8912c10681d8b21fd3742244f44658dba12264e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd8912c10681d8b21fd3742244f44658dba12264e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:51+00:00",
+    "icon": "icons\/pluton.png",
+    "name": "Pluton",
+    "totalSupply": "20000000",
+    "symbol": "PLU",
+    "reputation": "OK"
+}

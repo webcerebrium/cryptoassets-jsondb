@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x779b7b713c86e3e6774f5040d9ccc2d43ad375f8",
+    "address": "0x779b7b713c86e3e6774f5040d9ccc2d43ad375f8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x779b7b713c86e3e6774f5040d9ccc2d43ad375f8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "name": "StakePool",
+    "totalSupply": "200457628.36003093",
+    "symbol": "POOL",
+    "reputation": "UNKNOWN"
+}

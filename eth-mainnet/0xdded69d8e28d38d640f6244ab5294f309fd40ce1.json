@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xdded69d8e28d38d640f6244ab5294f309fd40ce1",
+    "address": "0xdded69d8e28d38d640f6244ab5294f309fd40ce1",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xdded69d8e28d38d640f6244ab5294f309fd40ce1"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:27+00:00",
+    "name": "Limit",
+    "totalSupply": "6500000",
+    "symbol": "LMT",
+    "reputation": "UNKNOWN"
+}

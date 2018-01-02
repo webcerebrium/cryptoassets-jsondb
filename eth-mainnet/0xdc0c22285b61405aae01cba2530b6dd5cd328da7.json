@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xdc0c22285b61405aae01cba2530b6dd5cd328da7",
+    "address": "0xdc0c22285b61405aae01cba2530b6dd5cd328da7",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xdc0c22285b61405aae01cba2530b6dd5cd328da7"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/ktn_karma_28.png",
+    "name": "KARMATOKEN",
+    "totalSupply": "184000000",
+    "symbol": "KTN",
+    "reputation": "NEUTRAL"
+}

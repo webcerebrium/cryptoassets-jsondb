@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x01c67791309c71aa4ed373025a0c089696d7c9e4",
+    "address": "0x01c67791309c71aa4ed373025a0c089696d7c9e4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x01c67791309c71aa4ed373025a0c089696d7c9e4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:02+00:00",
+    "name": "CCB",
+    "totalSupply": "2100000000",
+    "symbol": "CCB",
+    "reputation": "UNKNOWN"
+}

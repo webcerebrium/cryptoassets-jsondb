@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x9742fa8cb51d294c8267ddfead8582e16f18e421",
+    "address": "0x9742fa8cb51d294c8267ddfead8582e16f18e421",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9742fa8cb51d294c8267ddfead8582e16f18e421"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:58+00:00",
+    "name": "10MT Investment token",
+    "totalSupply": "0",
+    "symbol": "10MTI",
+    "reputation": "UNKNOWN"
+}

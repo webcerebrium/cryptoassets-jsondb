@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38",
+    "address": "0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xcc4ef9eeaf656ac1a2ab886743e98e97e090ed38"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:01+00:00",
+    "icon": "icons\/ddf_28.png",
+    "name": "Digital Developers Fund Token",
+    "totalSupply": "6428932.126963297278548",
+    "symbol": "DDF",
+    "reputation": "NEUTRAL"
+}

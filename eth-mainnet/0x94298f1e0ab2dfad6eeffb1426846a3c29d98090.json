@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x94298f1e0ab2dfad6eeffb1426846a3c29d98090",
+    "address": "0x94298f1e0ab2dfad6eeffb1426846a3c29d98090",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x94298f1e0ab2dfad6eeffb1426846a3c29d98090"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:00+00:00",
+    "icon": "icons\/mybit_28.png",
+    "name": "MyBit Token",
+    "totalSupply": "2812073.44012426",
+    "symbol": "MyB",
+    "reputation": "NEUTRAL"
+}

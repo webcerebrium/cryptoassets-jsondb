@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5",
+    "address": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "icon": "icons\/etherdoge2_28.png",
+    "name": "EtherDoge",
+    "totalSupply": "100000001000100000000000",
+    "symbol": "EDOGE",
+    "reputation": "NEUTRAL"
+}

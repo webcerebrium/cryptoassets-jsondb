@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x660b612ec57754d949ac1a09d0c2937a010dee05",
+    "address": "0x660b612ec57754d949ac1a09d0c2937a010dee05",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x660b612ec57754d949ac1a09d0c2937a010dee05"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/bitcad_28.png",
+    "name": "BitCAD",
+    "totalSupply": "100000000",
+    "symbol": "BCD",
+    "reputation": "NEUTRAL"
+}

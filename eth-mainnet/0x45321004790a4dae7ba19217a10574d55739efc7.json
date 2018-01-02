@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x45321004790a4dae7ba19217a10574d55739efc7",
+    "address": "0x45321004790a4dae7ba19217a10574d55739efc7",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x45321004790a4dae7ba19217a10574d55739efc7"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:06+00:00",
+    "icon": "icons\/redeem_28.png",
+    "name": "REDEEM Token",
+    "totalSupply": "100000000",
+    "symbol": "DEEM",
+    "reputation": "NEUTRAL"
+}

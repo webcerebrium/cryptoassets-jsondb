@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf6b55acbbc49f4524aa48d19281a9a77c54de10f",
+    "address": "0xf6b55acbbc49f4524aa48d19281a9a77c54de10f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf6b55acbbc49f4524aa48d19281a9a77c54de10f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:59+00:00",
+    "icon": "icons\/wolk_28.png",
+    "name": "WOLK TOKEN",
+    "totalSupply": "61216075.292829695",
+    "symbol": "WLK",
+    "reputation": "NEUTRAL"
+}

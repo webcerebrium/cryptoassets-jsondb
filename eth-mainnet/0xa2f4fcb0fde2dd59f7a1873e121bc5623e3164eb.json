@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xa2f4fcb0fde2dd59f7a1873e121bc5623e3164eb",
+    "address": "0xa2f4fcb0fde2dd59f7a1873e121bc5623e3164eb",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa2f4fcb0fde2dd59f7a1873e121bc5623e3164eb"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/aira_28.png",
+    "name": "Air phase 1",
+    "totalSupply": "999985",
+    "symbol": "AIR",
+    "reputation": "NEUTRAL"
+}

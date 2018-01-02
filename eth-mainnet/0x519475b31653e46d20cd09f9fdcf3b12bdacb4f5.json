@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5",
+    "address": "0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:13+00:00",
+    "icon": "icons\/viuly_28.png",
+    "name": "VIU",
+    "totalSupply": "1000000000",
+    "symbol": "VIU",
+    "reputation": "NEUTRAL"
+}

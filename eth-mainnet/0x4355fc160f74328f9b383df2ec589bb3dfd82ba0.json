@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x4355fc160f74328f9b383df2ec589bb3dfd82ba0",
+    "address": "0x4355fc160f74328f9b383df2ec589bb3dfd82ba0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x4355fc160f74328f9b383df2ec589bb3dfd82ba0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:00+00:00",
+    "icon": "icons\/opus_28.png",
+    "name": "Opus",
+    "totalSupply": "249308531.418777819032564882",
+    "symbol": "OPT",
+    "reputation": "NEUTRAL"
+}

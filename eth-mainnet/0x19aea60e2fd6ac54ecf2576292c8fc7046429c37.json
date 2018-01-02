@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x19aea60e2fd6ac54ecf2576292c8fc7046429c37",
+    "address": "0x19aea60e2fd6ac54ecf2576292c8fc7046429c37",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x19aea60e2fd6ac54ecf2576292c8fc7046429c37"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:33+00:00",
+    "icon": "icons\/uhub28.png",
+    "name": "UHUB",
+    "totalSupply": "477682297.04747383007508",
+    "symbol": "HUB",
+    "reputation": "NEUTRAL"
+}

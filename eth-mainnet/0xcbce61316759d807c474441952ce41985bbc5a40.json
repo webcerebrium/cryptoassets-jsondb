@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xcbce61316759d807c474441952ce41985bbc5a40",
+    "address": "0xcbce61316759d807c474441952ce41985bbc5a40",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xcbce61316759d807c474441952ce41985bbc5a40"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:21+00:00",
+    "icon": "icons\/moac28.png",
+    "name": "MoacToken Token",
+    "totalSupply": "56483386.0426861341435008",
+    "symbol": "MOAC",
+    "reputation": "NEUTRAL"
+}

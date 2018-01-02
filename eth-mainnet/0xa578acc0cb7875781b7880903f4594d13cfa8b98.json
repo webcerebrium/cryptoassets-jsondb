@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xa578acc0cb7875781b7880903f4594d13cfa8b98",
+    "address": "0xa578acc0cb7875781b7880903f4594d13cfa8b98",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa578acc0cb7875781b7880903f4594d13cfa8b98"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "name": "EtherCarbon",
+    "totalSupply": "300000000",
+    "symbol": "ECN",
+    "reputation": "UNKNOWN"
+}

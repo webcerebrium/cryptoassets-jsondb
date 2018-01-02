@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393",
+    "address": "0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:04+00:00",
+    "icon": "icons\/b2bx_28.png",
+    "name": "B2BX",
+    "totalSupply": "19822337.199585433103319875",
+    "symbol": "B2BX",
+    "reputation": "NEUTRAL"
+}

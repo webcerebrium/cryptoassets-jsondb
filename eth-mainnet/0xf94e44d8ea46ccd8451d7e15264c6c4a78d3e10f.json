@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xf94e44d8ea46ccd8451d7e15264c6c4a78d3e10f",
+    "address": "0xf94e44d8ea46ccd8451d7e15264c6c4a78d3e10f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf94e44d8ea46ccd8451d7e15264c6c4a78d3e10f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "icon": "icons\/krosscoin_28.png",
+    "name": "KrossCoin",
+    "symbol": "KrossCoin"
+}

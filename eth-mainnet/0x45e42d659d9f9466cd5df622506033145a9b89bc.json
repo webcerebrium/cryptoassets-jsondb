@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x45e42d659d9f9466cd5df622506033145a9b89bc",
+    "address": "0x45e42d659d9f9466cd5df622506033145a9b89bc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x45e42d659d9f9466cd5df622506033145a9b89bc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "name": "Nexium",
+    "totalSupply": "66521586",
+    "symbol": "NxC",
+    "reputation": "UNKNOWN"
+}

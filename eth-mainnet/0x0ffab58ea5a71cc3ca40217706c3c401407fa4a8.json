@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x0ffab58ea5a71cc3ca40217706c3c401407fa4a8",
+    "address": "0x0ffab58ea5a71cc3ca40217706c3c401407fa4a8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0ffab58ea5a71cc3ca40217706c3c401407fa4a8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:26+00:00",
+    "name": "Indicoin",
+    "totalSupply": "550000000",
+    "symbol": "INDI",
+    "reputation": "UNKNOWN"
+}

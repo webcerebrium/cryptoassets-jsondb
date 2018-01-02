@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3",
+    "address": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/gameflip_28.png",
+    "name": "GameFlip",
+    "symbol": "GameFlip"
+}

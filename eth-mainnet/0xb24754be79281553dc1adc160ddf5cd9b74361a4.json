@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xb24754be79281553dc1adc160ddf5cd9b74361a4",
+    "address": "0xb24754be79281553dc1adc160ddf5cd9b74361a4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb24754be79281553dc1adc160ddf5cd9b74361a4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:56+00:00",
+    "icon": "icons\/rialto_28.png",
+    "name": "Rialto",
+    "symbol": "Rialto"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x4e260e3ca268e40133c84b142de73108a7c1ec99",
+    "address": "0x4e260e3ca268e40133c84b142de73108a7c1ec99",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x4e260e3ca268e40133c84b142de73108a7c1ec99"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "icon": "icons\/yoshicoin_28.png",
+    "name": "YoshiCoin",
+    "totalSupply": "372",
+    "symbol": "YC",
+    "reputation": "NEUTRAL"
+}

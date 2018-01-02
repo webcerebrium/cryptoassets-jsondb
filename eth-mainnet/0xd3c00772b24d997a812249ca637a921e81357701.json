@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd3c00772b24d997a812249ca637a921e81357701",
+    "address": "0xd3c00772b24d997a812249ca637a921e81357701",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd3c00772b24d997a812249ca637a921e81357701"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:03+00:00",
+    "icon": "icons\/wildcrypto_28.png",
+    "name": "WILD Token",
+    "totalSupply": "100000000",
+    "symbol": "WILD",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x5ca71ea65acb6293e71e62c41b720698b0aa611c",
+    "address": "0x5ca71ea65acb6293e71e62c41b720698b0aa611c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5ca71ea65acb6293e71e62c41b720698b0aa611c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "icon": "icons\/bbod_28.png",
+    "name": "BlockChain Board Of Derivatives Token",
+    "totalSupply": "2758035.8245083765625",
+    "symbol": "BBD",
+    "reputation": "NEUTRAL"
+}

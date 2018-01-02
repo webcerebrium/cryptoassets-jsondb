@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+    "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "icon": "icons\/sngls2.PNG",
+    "name": "SNGLS",
+    "totalSupply": "1000000000",
+    "symbol": "SNGLS",
+    "reputation": "OK"
+}

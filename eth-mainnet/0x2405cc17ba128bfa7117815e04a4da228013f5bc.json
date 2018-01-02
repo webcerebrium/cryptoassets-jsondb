@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x2405cc17ba128bfa7117815e04a4da228013f5bc",
+    "address": "0x2405cc17ba128bfa7117815e04a4da228013f5bc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2405cc17ba128bfa7117815e04a4da228013f5bc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:36+00:00",
+    "name": "Bananas",
+    "totalSupply": "2001600",
+    "symbol": "BNN",
+    "reputation": "UNKNOWN"
+}

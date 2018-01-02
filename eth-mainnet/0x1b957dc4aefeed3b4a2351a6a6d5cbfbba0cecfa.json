@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+    "address": "0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:32+00:00",
+    "icon": "icons\/hoqu_28.png",
+    "name": "HOQU Token",
+    "totalSupply": "888888000",
+    "symbol": "HQX",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x07d9e49ea402194bf48a8276dafb16e4ed633317",
+    "address": "0x07d9e49ea402194bf48a8276dafb16e4ed633317",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x07d9e49ea402194bf48a8276dafb16e4ed633317"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:01+00:00",
+    "icon": "icons\/dalecoin2.png",
+    "name": "DALECOIN",
+    "totalSupply": "1000000",
+    "symbol": "DALC",
+    "reputation": "NEUTRAL"
+}

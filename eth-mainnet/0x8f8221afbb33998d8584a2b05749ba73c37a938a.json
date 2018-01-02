@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+    "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/request_28.png",
+    "name": "Request",
+    "symbol": "Request"
+}

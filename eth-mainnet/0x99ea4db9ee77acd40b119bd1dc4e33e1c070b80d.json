@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
+    "address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:38+00:00",
+    "icon": "icons\/quantstamp28.png",
+    "name": "Quantstamp",
+    "totalSupply": "976442388.32118496602859",
+    "symbol": "QSP",
+    "reputation": "NEUTRAL"
+}

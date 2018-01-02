@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468",
+    "address": "0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:54+00:00",
+    "icon": "icons\/green-sgt-coin.png",
+    "name": "StatusGenesis",
+    "totalSupply": "34644701.3",
+    "symbol": "SGT",
+    "reputation": "UNKNOWN"
+}

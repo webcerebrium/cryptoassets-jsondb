@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7654915a1b82d6d2d0afc37c52af556ea8983c7e",
+    "address": "0x7654915a1b82d6d2d0afc37c52af556ea8983c7e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7654915a1b82d6d2d0afc37c52af556ea8983c7e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:00+00:00",
+    "icon": "icons\/investfeed2_28.png",
+    "name": "Feed",
+    "totalSupply": "191381257.670442340722993",
+    "symbol": "IFT",
+    "reputation": "NEUTRAL"
+}

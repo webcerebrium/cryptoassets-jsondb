@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x01afc37f4f85babc47c0e2d0eababc7fb49793c8",
+    "address": "0x01afc37f4f85babc47c0e2d0eababc7fb49793c8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x01afc37f4f85babc47c0e2d0eababc7fb49793c8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "name": "W-GNT",
+    "totalSupply": "81884.77662149020976726",
+    "symbol": "GNT",
+    "reputation": "UNKNOWN"
+}

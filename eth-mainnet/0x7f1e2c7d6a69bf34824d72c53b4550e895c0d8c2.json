@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7f1e2c7d6a69bf34824d72c53b4550e895c0d8c2",
+    "address": "0x7f1e2c7d6a69bf34824d72c53b4550e895c0d8c2",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7f1e2c7d6a69bf34824d72c53b4550e895c0d8c2"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:04+00:00",
+    "icon": "icons\/blockoptions_28.png",
+    "name": "blockoptions",
+    "totalSupply": "2700000",
+    "symbol": "BOP",
+    "reputation": "NEUTRAL"
+}

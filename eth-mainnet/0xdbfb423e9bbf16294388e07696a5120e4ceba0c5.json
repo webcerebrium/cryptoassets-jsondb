@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xdbfb423e9bbf16294388e07696a5120e4ceba0c5",
+    "address": "0xdbfb423e9bbf16294388e07696a5120e4ceba0c5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xdbfb423e9bbf16294388e07696a5120e4ceba0c5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:31+00:00",
+    "icon": "icons\/ethereumdark_28.png",
+    "name": "Ethereum Dark",
+    "totalSupply": "4200000",
+    "symbol": "ETHD",
+    "reputation": "NEUTRAL"
+}

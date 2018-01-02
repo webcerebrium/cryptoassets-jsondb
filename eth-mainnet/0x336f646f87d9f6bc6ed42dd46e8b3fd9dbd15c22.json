@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22",
+    "address": "0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x336f646f87d9f6bc6ed42dd46e8b3fd9dbd15c22"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:03+00:00",
+    "icon": "icons\/crystalclear_28.png",
+    "name": "Crystal Clear Token",
+    "totalSupply": "6924060",
+    "symbol": "CCT",
+    "reputation": "NEUTRAL"
+}

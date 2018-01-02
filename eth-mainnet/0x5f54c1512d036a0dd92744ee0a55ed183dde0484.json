@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x5f54c1512d036a0dd92744ee0a55ed183dde0484",
+    "address": "0x5f54c1512d036a0dd92744ee0a55ed183dde0484",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5f54c1512d036a0dd92744ee0a55ed183dde0484"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:43+00:00",
+    "icon": "icons\/staticoin_jpy_s_28.png",
+    "name": "JPY Static",
+    "totalSupply": "200.547622266414647279",
+    "symbol": "JPY_S",
+    "reputation": "NEUTRAL"
+}

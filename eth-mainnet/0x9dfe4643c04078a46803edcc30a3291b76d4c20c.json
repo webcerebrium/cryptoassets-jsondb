@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x9dfe4643c04078a46803edcc30a3291b76d4c20c",
+    "address": "0x9dfe4643c04078a46803edcc30a3291b76d4c20c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9dfe4643c04078a46803edcc30a3291b76d4c20c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:27+00:00",
+    "name": "Genesis",
+    "totalSupply": "16000000",
+    "symbol": "GEN",
+    "reputation": "UNKNOWN"
+}

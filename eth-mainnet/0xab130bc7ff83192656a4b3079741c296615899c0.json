@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xab130bc7ff83192656a4b3079741c296615899c0",
+    "address": "0xab130bc7ff83192656a4b3079741c296615899c0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xab130bc7ff83192656a4b3079741c296615899c0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "name": "Mayweather No",
+    "totalSupply": "0.021",
+    "symbol": "MAYN",
+    "reputation": "UNKNOWN"
+}

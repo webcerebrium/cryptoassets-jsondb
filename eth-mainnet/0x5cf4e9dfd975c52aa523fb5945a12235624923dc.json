@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x5cf4e9dfd975c52aa523fb5945a12235624923dc",
+    "address": "0x5cf4e9dfd975c52aa523fb5945a12235624923dc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5cf4e9dfd975c52aa523fb5945a12235624923dc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "name": "iMPERIUM COIN",
+    "totalSupply": "2000000000",
+    "symbol": "MPRM",
+    "reputation": "UNKNOWN"
+}

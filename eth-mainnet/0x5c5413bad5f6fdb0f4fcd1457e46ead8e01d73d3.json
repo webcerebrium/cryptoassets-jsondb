@@ -1,0 +1,15 @@
+{
+    "_id": "ETH-1-0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3",
+    "address": "0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5c5413bad5f6fdb0f4fcd1457e46ead8e01d73d3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:52+00:00",
+    "name": "UAHpay",
+    "symbol": "UAHpay"
+}

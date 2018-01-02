@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x55e7c4a77821d5c50b4570b08f9f92896a25e012",
+    "address": "0x55e7c4a77821d5c50b4570b08f9f92896a25e012",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x55e7c4a77821d5c50b4570b08f9f92896a25e012"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "name": "Greenpower",
+    "totalSupply": "4853884 P+",
+    "reputation": "UNKNOWN",
+    "symbol": "Greenpower"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+    "address": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:56+00:00",
+    "icon": "icons\/eos_28.png",
+    "name": "EOS",
+    "symbol": "EOS"
+}

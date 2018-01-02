@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x9b6443b0fb9c241a7fdac375595cea13e6b7807a",
+    "address": "0x9b6443b0fb9c241a7fdac375595cea13e6b7807a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9b6443b0fb9c241a7fdac375595cea13e6b7807a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:12+00:00",
+    "icon": "icons\/realitycash_28.png",
+    "name": "Reality Clash Coin",
+    "totalSupply": "24487944.095820433464860415",
+    "symbol": "RCC",
+    "reputation": "NEUTRAL"
+}

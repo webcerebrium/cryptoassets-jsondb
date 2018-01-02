@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xf2e51e32d1f546423364a040ef1a6d2f05e31482",
+    "address": "0xf2e51e32d1f546423364a040ef1a6d2f05e31482",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf2e51e32d1f546423364a040ef1a6d2f05e31482"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:29+00:00",
+    "name": "Hubcoin",
+    "totalSupply": "107336",
+    "symbol": "HUB",
+    "reputation": "UNKNOWN"
+}

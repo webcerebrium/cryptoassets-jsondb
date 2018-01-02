@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xfeed1a53bd53ffe453d265fc6e70dd85f8e993b6",
+    "address": "0xfeed1a53bd53ffe453d265fc6e70dd85f8e993b6",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xfeed1a53bd53ffe453d265fc6e70dd85f8e993b6"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:46+00:00",
+    "icon": "icons\/hydro_28.png",
+    "name": "HydroCoin",
+    "symbol": "HydroCoin"
+}

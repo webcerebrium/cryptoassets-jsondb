@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x2160e6c0ae8ca7d62fe1f57fc049f8363283ff5f",
+    "address": "0x2160e6c0ae8ca7d62fe1f57fc049f8363283ff5f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2160e6c0ae8ca7d62fe1f57fc049f8363283ff5f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:01+00:00",
+    "icon": "icons\/blockpass_28.png",
+    "name": "Blockpass",
+    "totalSupply": "37467.84",
+    "symbol": "BPT",
+    "reputation": "UNKNOWN"
+}

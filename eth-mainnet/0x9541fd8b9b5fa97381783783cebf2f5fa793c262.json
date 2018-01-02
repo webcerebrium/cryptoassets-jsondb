@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x9541fd8b9b5fa97381783783cebf2f5fa793c262",
+    "address": "0x9541fd8b9b5fa97381783783cebf2f5fa793c262",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9541fd8b9b5fa97381783783cebf2f5fa793c262"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:14+00:00",
+    "name": "Kaizen",
+    "totalSupply": "200324940.420194",
+    "symbol": "KZN",
+    "reputation": "UNKNOWN"
+}

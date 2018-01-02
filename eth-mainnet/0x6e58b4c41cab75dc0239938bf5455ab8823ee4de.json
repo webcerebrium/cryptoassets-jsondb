@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x6e58b4c41cab75dc0239938bf5455ab8823ee4de",
+    "address": "0x6e58b4c41cab75dc0239938bf5455ab8823ee4de",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x6e58b4c41cab75dc0239938bf5455ab8823ee4de"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:30+00:00",
+    "name": "BTC2X",
+    "totalSupply": "21000000",
+    "symbol": "B2X",
+    "reputation": "UNKNOWN"
+}

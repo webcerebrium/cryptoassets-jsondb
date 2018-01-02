@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x82665764ea0b58157e1e5e9bab32f68c76ec0cdf",
+    "address": "0x82665764ea0b58157e1e5e9bab32f68c76ec0cdf",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x82665764ea0b58157e1e5e9bab32f68c76ec0cdf"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:54+00:00",
+    "name": "VOISE",
+    "totalSupply": "16825578",
+    "symbol": "VSM",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xe814aee960a85208c3db542c53e7d4a6c8d5f60f",
+    "address": "0xe814aee960a85208c3db542c53e7d4a6c8d5f60f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe814aee960a85208c3db542c53e7d4a6c8d5f60f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:05+00:00",
+    "icon": "icons\/chronologic_28.png",
+    "name": "Day",
+    "symbol": "Day"
+}

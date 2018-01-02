@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x76195ffd0cfedf68625b3e5b64c7bd904eeb9d6c",
+    "address": "0x76195ffd0cfedf68625b3e5b64c7bd904eeb9d6c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x76195ffd0cfedf68625b3e5b64c7bd904eeb9d6c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:02+00:00",
+    "name": "wellieat",
+    "totalSupply": "21000000",
+    "symbol": "WET",
+    "reputation": "UNKNOWN"
+}

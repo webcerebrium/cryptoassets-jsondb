@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x0766e79a6fd74469733e8330b3b461c0320ff059",
+    "address": "0x0766e79a6fd74469733e8330b3b461c0320ff059",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0766e79a6fd74469733e8330b3b461c0320ff059"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "icon": "icons\/exchangen_28.png",
+    "name": "EXN",
+    "totalSupply": "10000000",
+    "symbol": "EXN",
+    "reputation": "NEUTRAL"
+}

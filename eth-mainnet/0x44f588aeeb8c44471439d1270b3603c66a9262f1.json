@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x44f588aeeb8c44471439d1270b3603c66a9262f1",
+    "address": "0x44f588aeeb8c44471439d1270b3603c66a9262f1",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x44f588aeeb8c44471439d1270b3603c66a9262f1"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:06+00:00",
+    "icon": "icons\/snipcoin_28.png",
+    "name": "SnipCoin",
+    "totalSupply": "10000000000",
+    "symbol": "SNIP",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xc42209accc14029c1012fb5680d95fbd6036e2a0",
+    "address": "0xc42209accc14029c1012fb5680d95fbd6036e2a0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xc42209accc14029c1012fb5680d95fbd6036e2a0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/paypie_28.png",
+    "name": "PayPie",
+    "symbol": "PayPie"
+}

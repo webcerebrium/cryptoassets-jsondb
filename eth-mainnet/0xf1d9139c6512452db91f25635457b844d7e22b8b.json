@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf1d9139c6512452db91f25635457b844d7e22b8b",
+    "address": "0xf1d9139c6512452db91f25635457b844d7e22b8b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf1d9139c6512452db91f25635457b844d7e22b8b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:07+00:00",
+    "icon": "icons\/carbontokenclassic_28.png",
+    "name": "CARBON TOKEN CLASSIC",
+    "totalSupply": "100000000",
+    "symbol": "CTC",
+    "reputation": "NEUTRAL"
+}

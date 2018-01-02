@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xac3da587eac229c9896d919abc235ca4fd7f72c1",
+    "address": "0xac3da587eac229c9896d919abc235ca4fd7f72c1",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xac3da587eac229c9896d919abc235ca4fd7f72c1"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:05+00:00",
+    "icon": "icons\/tgtcoin_28.png",
+    "name": "TGTCoin",
+    "symbol": "TGTCoin"
+}

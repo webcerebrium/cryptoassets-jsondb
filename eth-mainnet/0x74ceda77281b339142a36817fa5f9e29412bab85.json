@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x74ceda77281b339142a36817fa5f9e29412bab85",
+    "address": "0x74ceda77281b339142a36817fa5f9e29412bab85",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x74ceda77281b339142a36817fa5f9e29412bab85"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:25+00:00",
+    "icon": "icons\/eroscoin_28.png",
+    "name": "EROSCOIN",
+    "totalSupply": "240000000",
+    "symbol": "ERO",
+    "reputation": "NEUTRAL"
+}

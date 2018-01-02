@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x76e82406a5040b605c6d30caf4802e7eb3184bbc",
+    "address": "0x76e82406a5040b605c6d30caf4802e7eb3184bbc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x76e82406a5040b605c6d30caf4802e7eb3184bbc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:30+00:00",
+    "icon": "icons\/ebtcash_28.png",
+    "name": "eBitcoinCash",
+    "totalSupply": "21000000",
+    "symbol": "eBCC",
+    "reputation": "NEUTRAL"
+}

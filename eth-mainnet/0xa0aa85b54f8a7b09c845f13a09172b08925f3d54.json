@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xa0aa85b54f8a7b09c845f13a09172b08925f3d54",
+    "address": "0xa0aa85b54f8a7b09c845f13a09172b08925f3d54",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa0aa85b54f8a7b09c845f13a09172b08925f3d54"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:34+00:00",
+    "name": "SISA Token",
+    "totalSupply": "50000000",
+    "symbol": "SISA",
+    "reputation": "UNKNOWN"
+}

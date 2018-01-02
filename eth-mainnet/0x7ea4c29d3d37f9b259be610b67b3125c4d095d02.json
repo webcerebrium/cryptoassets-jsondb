@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7ea4c29d3d37f9b259be610b67b3125c4d095d02",
+    "address": "0x7ea4c29d3d37f9b259be610b67b3125c4d095d02",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7ea4c29d3d37f9b259be610b67b3125c4d095d02"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:37+00:00",
+    "icon": "icons\/canadacoin_28.png",
+    "name": "CANADACOIN",
+    "totalSupply": "36743174000",
+    "symbol": "CANADA",
+    "reputation": "NEUTRAL"
+}

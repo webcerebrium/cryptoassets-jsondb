@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x00a0cbe98e4d110b0fa82646152d77babf2951d0",
+    "address": "0x00a0cbe98e4d110b0fa82646152d77babf2951d0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x00a0cbe98e4d110b0fa82646152d77babf2951d0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:10+00:00",
+    "name": "EETHER",
+    "totalSupply": "12000000",
+    "symbol": "EETHER",
+    "reputation": "UNKNOWN"
+}

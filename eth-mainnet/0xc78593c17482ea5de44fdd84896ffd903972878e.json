@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xc78593c17482ea5de44fdd84896ffd903972878e",
+    "address": "0xc78593c17482ea5de44fdd84896ffd903972878e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xc78593c17482ea5de44fdd84896ffd903972878e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:28+00:00",
+    "icon": "icons\/etherbb_28.png",
+    "name": "EtherBB",
+    "totalSupply": "1000000000",
+    "symbol": "BB",
+    "reputation": "UNKNOWN"
+}

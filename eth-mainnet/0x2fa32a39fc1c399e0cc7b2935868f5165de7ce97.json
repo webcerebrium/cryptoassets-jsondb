@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97",
+    "address": "0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:03+00:00",
+    "icon": "icons\/payfair_28.png",
+    "name": "PayFair Token",
+    "totalSupply": "88999687.03849664",
+    "symbol": "PFR",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x5a84969bb663fb64f6d015dcf9f622aedc796750",
+    "address": "0x5a84969bb663fb64f6d015dcf9f622aedc796750",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5a84969bb663fb64f6d015dcf9f622aedc796750"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/idice.png",
+    "name": "iDiceCrowdSale",
+    "symbol": "iDiceCrowdSale"
+}

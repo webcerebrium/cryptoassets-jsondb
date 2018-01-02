@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x5e3346444010135322268a4630d2ed5f8d09446c",
+    "address": "0x5e3346444010135322268a4630d2ed5f8d09446c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5e3346444010135322268a4630d2ed5f8d09446c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:26+00:00",
+    "icon": "icons\/lockchain_28.png",
+    "name": "LockChain",
+    "totalSupply": "18585932.741500854062225",
+    "symbol": "LOC",
+    "reputation": "NEUTRAL"
+}

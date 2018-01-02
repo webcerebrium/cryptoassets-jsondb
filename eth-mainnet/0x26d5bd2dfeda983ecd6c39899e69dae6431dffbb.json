@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb",
+    "address": "0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:53+00:00",
+    "icon": "icons\/erc20space_28.png",
+    "name": "ERC20",
+    "totalSupply": "12079767119",
+    "symbol": "ERC",
+    "reputation": "NEUTRAL"
+}

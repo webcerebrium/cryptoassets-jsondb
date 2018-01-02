@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x2ca72c9699b92b47272c9716c664cad6167c80b0",
+    "address": "0x2ca72c9699b92b47272c9716c664cad6167c80b0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2ca72c9699b92b47272c9716c664cad6167c80b0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/geounits_28.png",
+    "name": "GeoUnits",
+    "totalSupply": "100000000",
+    "symbol": "GUNS",
+    "reputation": "NEUTRAL"
+}

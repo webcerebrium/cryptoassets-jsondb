@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xa51d948ff15fbabac476af160cba6901ce47f4b0",
+    "address": "0xa51d948ff15fbabac476af160cba6901ce47f4b0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa51d948ff15fbabac476af160cba6901ce47f4b0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/lynxnetwork_28.png",
+    "name": "Lynx",
+    "symbol": "Lynx"
+}

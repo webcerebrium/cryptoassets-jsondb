@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+    "address": "0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x999967e2ec8a74b7c8e9db19e039d920b31d39d0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:55+00:00",
+    "icon": "icons\/ties_28.png",
+    "name": "TieToken",
+    "totalSupply": "59251278.08933329723136762",
+    "symbol": "TIE",
+    "reputation": "NEUTRAL"
+}

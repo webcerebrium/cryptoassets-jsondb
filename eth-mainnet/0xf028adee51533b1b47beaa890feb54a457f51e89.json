@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf028adee51533b1b47beaa890feb54a457f51e89",
+    "address": "0xf028adee51533b1b47beaa890feb54a457f51e89",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf028adee51533b1b47beaa890feb54a457f51e89"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "icon": "icons\/bmchain_28.png",
+    "name": "BMChain Token",
+    "totalSupply": "91907666.568987036084933201",
+    "symbol": "BMT",
+    "reputation": "NEUTRAL"
+}

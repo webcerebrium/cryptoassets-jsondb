@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x6d7a4c14c997333e304d5aef2aece73fd60ecc59",
+    "address": "0x6d7a4c14c997333e304d5aef2aece73fd60ecc59",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x6d7a4c14c997333e304d5aef2aece73fd60ecc59"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:33+00:00",
+    "icon": "icons\/windy_28.png",
+    "name": "Windy",
+    "totalSupply": "21000000",
+    "symbol": "WND",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x960b236a07cf122663c4303350609a66a7b288c0",
+    "address": "0x960b236a07cf122663c4303350609a66a7b288c0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x960b236a07cf122663c4303350609a66a7b288c0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:54+00:00",
+    "icon": "icons\/aragon_28.png",
+    "name": "Aragon",
+    "symbol": "Aragon"
+}

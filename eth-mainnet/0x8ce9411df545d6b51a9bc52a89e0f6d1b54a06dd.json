@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x8ce9411df545d6b51a9bc52a89e0f6d1b54a06dd",
+    "address": "0x8ce9411df545d6b51a9bc52a89e0f6d1b54a06dd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8ce9411df545d6b51a9bc52a89e0f6d1b54a06dd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:00+00:00",
+    "name": "CryptoABS",
+    "totalSupply": "21000000",
+    "symbol": "ABS",
+    "reputation": "UNKNOWN"
+}

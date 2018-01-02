@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
+    "address": "0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xc66ea802717bfb9833400264dd12c2bceaa34a6d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "name": "MKR",
+    "totalSupply": "1000000",
+    "symbol": "MKR",
+    "reputation": "UNKNOWN"
+}

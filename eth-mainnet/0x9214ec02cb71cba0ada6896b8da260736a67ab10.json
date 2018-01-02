@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x9214ec02cb71cba0ada6896b8da260736a67ab10",
+    "address": "0x9214ec02cb71cba0ada6896b8da260736a67ab10",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9214ec02cb71cba0ada6896b8da260736a67ab10"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "icon": "icons\/realestatetoken_28.png",
+    "name": "Real Estate Asset Ledger",
+    "totalSupply": "19717289.229212822808130273",
+    "symbol": "REAL",
+    "reputation": "NEUTRAL"
+}

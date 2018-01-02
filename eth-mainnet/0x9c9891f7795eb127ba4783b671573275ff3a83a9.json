@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x9c9891f7795eb127ba4783b671573275ff3a83a9",
+    "address": "0x9c9891f7795eb127ba4783b671573275ff3a83a9",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9c9891f7795eb127ba4783b671573275ff3a83a9"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:38+00:00",
+    "name": "BtcSegwit2X",
+    "totalSupply": "21000000",
+    "symbol": "B2X",
+    "reputation": "UNKNOWN"
+}

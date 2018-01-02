@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63",
+    "address": "0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/sonm_28.png",
+    "name": "Sonm",
+    "symbol": "Sonm"
+}

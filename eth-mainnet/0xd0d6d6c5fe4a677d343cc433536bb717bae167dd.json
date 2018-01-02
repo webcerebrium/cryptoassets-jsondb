@@ -1,0 +1,15 @@
+{
+    "_id": "ETH-1-0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
+    "address": "0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd0d6d6c5fe4a677d343cc433536bb717bae167dd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:56+00:00",
+    "name": "Ad",
+    "symbol": "Ad"
+}

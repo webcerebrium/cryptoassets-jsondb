@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x044dd17bbbcbf1cf65f543918561bf8cf8130e7b",
+    "address": "0x044dd17bbbcbf1cf65f543918561bf8cf8130e7b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x044dd17bbbcbf1cf65f543918561bf8cf8130e7b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:34+00:00",
+    "icon": "icons\/engraved_28.png",
+    "name": "Engraved",
+    "symbol": "Engraved"
+}

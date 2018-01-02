@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x222728c202e7164dfbd127181d46409338c4328e",
+    "address": "0x222728c202e7164dfbd127181d46409338c4328e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x222728c202e7164dfbd127181d46409338c4328e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:44+00:00",
+    "icon": "icons\/mindsports_28px.png",
+    "name": "MIND Token",
+    "totalSupply": "50000000",
+    "symbol": "MIND",
+    "reputation": "NEUTRAL"
+}

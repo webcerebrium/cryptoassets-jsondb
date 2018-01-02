@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x5c543e7ae0a1104f78406c340e9c64fd9fce5170",
+    "address": "0x5c543e7ae0a1104f78406c340e9c64fd9fce5170",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5c543e7ae0a1104f78406c340e9c64fd9fce5170"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "icon": "icons\/vslice.png",
+    "name": "vSlice",
+    "totalSupply": "33390496.03337560002666059",
+    "symbol": "vSlice",
+    "reputation": "OK"
+}

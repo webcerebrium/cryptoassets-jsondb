@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x9c1d13d5a8fd4a8ac89917d31d40db454d1ee60b",
+    "address": "0x9c1d13d5a8fd4a8ac89917d31d40db454d1ee60b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9c1d13d5a8fd4a8ac89917d31d40db454d1ee60b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:08+00:00",
+    "icon": "icons\/launchertoken28.png",
+    "name": "ethereum launcher",
+    "totalSupply": "4500000",
+    "symbol": "elunch",
+    "reputation": "NEUTRAL"
+}

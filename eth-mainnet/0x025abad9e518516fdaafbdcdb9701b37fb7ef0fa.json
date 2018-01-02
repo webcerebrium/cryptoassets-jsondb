@@ -1,0 +1,15 @@
+{
+    "_id": "ETH-1-0x025abad9e518516fdaafbdcdb9701b37fb7ef0fa",
+    "address": "0x025abad9e518516fdaafbdcdb9701b37fb7ef0fa",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x025abad9e518516fdaafbdcdb9701b37fb7ef0fa"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:00+00:00",
+    "name": "BacktoEarthCrowdsale",
+    "symbol": "BacktoEarthCrowdsale"
+}

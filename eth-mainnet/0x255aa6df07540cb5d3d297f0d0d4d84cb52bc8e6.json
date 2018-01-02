@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+    "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:09+00:00",
+    "icon": "icons\/raiden28.png",
+    "name": "Raiden",
+    "totalSupply": "99999999.99999995496",
+    "symbol": "RDN",
+    "reputation": "NEUTRAL"
+}

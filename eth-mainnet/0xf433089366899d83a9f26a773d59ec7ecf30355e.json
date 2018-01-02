@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xf433089366899d83a9f26a773d59ec7ecf30355e",
+    "address": "0xf433089366899d83a9f26a773d59ec7ecf30355e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf433089366899d83a9f26a773d59ec7ecf30355e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/metalpay_28.png",
+    "name": "MetalPay",
+    "symbol": "MetalPay"
+}

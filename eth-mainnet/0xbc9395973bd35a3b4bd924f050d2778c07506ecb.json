@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xbc9395973bd35a3b4bd924f050d2778c07506ecb",
+    "address": "0xbc9395973bd35a3b4bd924f050d2778c07506ecb",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xbc9395973bd35a3b4bd924f050d2778c07506ecb"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:39+00:00",
+    "icon": "icons\/greedtoken_28.png",
+    "name": "GREED TOKEN",
+    "totalSupply": "3140000000",
+    "symbol": "GREED",
+    "reputation": "NEUTRAL"
+}

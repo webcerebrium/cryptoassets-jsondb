@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x944f1a04ab8d735acdbc46505c5b283f54289152",
+    "address": "0x944f1a04ab8d735acdbc46505c5b283f54289152",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x944f1a04ab8d735acdbc46505c5b283f54289152"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:03+00:00",
+    "name": "Gamerbits",
+    "totalSupply": "90000000",
+    "symbol": "GBTS",
+    "reputation": "UNKNOWN"
+}

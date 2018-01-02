@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x569cbdcc684edcc589939cc8f6b96e6abd9eb0f3",
+    "address": "0x569cbdcc684edcc589939cc8f6b96e6abd9eb0f3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x569cbdcc684edcc589939cc8f6b96e6abd9eb0f3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:34+00:00",
+    "name": "iGnite",
+    "totalSupply": "10046309.32",
+    "symbol": "iGn",
+    "reputation": "UNKNOWN"
+}

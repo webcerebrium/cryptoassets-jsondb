@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+    "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/FunFair.png",
+    "name": "FunFair",
+    "symbol": "FunFair"
+}

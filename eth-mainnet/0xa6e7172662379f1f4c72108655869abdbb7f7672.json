@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xa6e7172662379f1f4c72108655869abdbb7f7672",
+    "address": "0xa6e7172662379f1f4c72108655869abdbb7f7672",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa6e7172662379f1f4c72108655869abdbb7f7672"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:04+00:00",
+    "icon": "icons\/jade_28.png",
+    "name": "Jade",
+    "symbol": "Jade"
+}

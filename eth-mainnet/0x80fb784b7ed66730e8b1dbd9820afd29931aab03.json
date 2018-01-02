@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+    "address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x80fb784b7ed66730e8b1dbd9820afd29931aab03"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:50+00:00",
+    "icon": "icons\/ethlend_28.png",
+    "name": "EthLend",
+    "symbol": "EthLend"
+}

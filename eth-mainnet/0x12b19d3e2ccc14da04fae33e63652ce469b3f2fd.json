@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+    "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:58+00:00",
+    "icon": "icons\/grid_28.png",
+    "name": "GRID",
+    "totalSupply": "300000000",
+    "symbol": "GRID",
+    "reputation": "NEUTRAL"
+}

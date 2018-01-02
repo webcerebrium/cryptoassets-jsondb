@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x43ee79e379e7b78d871100ed696e803e7893b644",
+    "address": "0x43ee79e379e7b78d871100ed696e803e7893b644",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x43ee79e379e7b78d871100ed696e803e7893b644"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:05+00:00",
+    "icon": "icons\/ugchain_28.png",
+    "name": "UGChain",
+    "symbol": "UGChain"
+}

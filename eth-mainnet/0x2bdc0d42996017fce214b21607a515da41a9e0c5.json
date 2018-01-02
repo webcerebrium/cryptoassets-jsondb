@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x2bdc0d42996017fce214b21607a515da41a9e0c5",
+    "address": "0x2bdc0d42996017fce214b21607a515da41a9e0c5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2bdc0d42996017fce214b21607a515da41a9e0c5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/skincoin_28.png",
+    "name": "SkinCoin",
+    "totalSupply": "488183483.290948",
+    "symbol": "SKIN",
+    "reputation": "NEUTRAL"
+}

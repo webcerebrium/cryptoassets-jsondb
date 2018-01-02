@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x697beac28B09E122C4332D163985e8a73121b97F",
+    "address": "0x697beac28B09E122C4332D163985e8a73121b97F",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x697beac28B09E122C4332D163985e8a73121b97F"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/qrl_28.png",
+    "name": "QuantumResistantLedger",
+    "symbol": "QuantumResistantLedger"
+}

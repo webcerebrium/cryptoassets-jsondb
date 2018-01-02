@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
+    "address": "0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xff18dbc487b4c2e3222d115952babfda8ba52f5f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:48+00:00",
+    "icon": "icons\/purelifecoin2_28.png",
+    "name": "Life",
+    "symbol": "Life"
+}

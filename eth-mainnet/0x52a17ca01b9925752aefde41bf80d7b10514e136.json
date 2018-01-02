@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x52a17ca01b9925752aefde41bf80d7b10514e136",
+    "address": "0x52a17ca01b9925752aefde41bf80d7b10514e136",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x52a17ca01b9925752aefde41bf80d7b10514e136"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:35+00:00",
+    "name": "Pump coin",
+    "totalSupply": "1000000",
+    "symbol": "PUMP",
+    "reputation": "UNKNOWN"
+}

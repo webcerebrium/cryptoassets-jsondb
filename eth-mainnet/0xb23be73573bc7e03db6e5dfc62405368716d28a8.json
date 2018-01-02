@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xb23be73573bc7e03db6e5dfc62405368716d28a8",
+    "address": "0xb23be73573bc7e03db6e5dfc62405368716d28a8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb23be73573bc7e03db6e5dfc62405368716d28a8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "name": "oneK",
+    "totalSupply": "1000",
+    "symbol": "ONEK",
+    "reputation": "UNKNOWN"
+}

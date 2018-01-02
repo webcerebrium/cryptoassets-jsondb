@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+    "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/populous_28.png",
+    "name": "PopulousCrowdsale",
+    "symbol": "PopulousCrowdsale"
+}

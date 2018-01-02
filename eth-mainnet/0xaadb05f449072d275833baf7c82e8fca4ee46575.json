@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xaadb05f449072d275833baf7c82e8fca4ee46575",
+    "address": "0xaadb05f449072d275833baf7c82e8fca4ee46575",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xaadb05f449072d275833baf7c82e8fca4ee46575"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:07+00:00",
+    "name": "Spectre Utility Token",
+    "totalSupply": "853336296994703000.952",
+    "symbol": "SXU",
+    "reputation": "UNKNOWN"
+}

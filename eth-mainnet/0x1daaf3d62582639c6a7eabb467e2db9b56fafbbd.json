@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x1daaf3d62582639c6a7eabb467e2db9b56fafbbd",
+    "address": "0x1daaf3d62582639c6a7eabb467e2db9b56fafbbd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1daaf3d62582639c6a7eabb467e2db9b56fafbbd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:40+00:00",
+    "icon": "icons\/staticoin_usd-s_28.png",
+    "name": "USD Static",
+    "totalSupply": "9.531044176792074048",
+    "symbol": "USD_S",
+    "reputation": "NEUTRAL"
+}

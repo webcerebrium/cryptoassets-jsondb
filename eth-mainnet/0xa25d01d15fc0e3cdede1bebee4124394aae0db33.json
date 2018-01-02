@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xa25d01d15fc0e3cdede1bebee4124394aae0db33",
+    "address": "0xa25d01d15fc0e3cdede1bebee4124394aae0db33",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa25d01d15fc0e3cdede1bebee4124394aae0db33"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:59+00:00",
+    "name": "Follow Coin",
+    "totalSupply": "515547535.17395907617482",
+    "symbol": "FLLW",
+    "reputation": "UNKNOWN"
+}

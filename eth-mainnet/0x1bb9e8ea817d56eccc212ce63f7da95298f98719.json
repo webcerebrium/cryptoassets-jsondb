@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x1bb9e8ea817d56eccc212ce63f7da95298f98719",
+    "address": "0x1bb9e8ea817d56eccc212ce63f7da95298f98719",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1bb9e8ea817d56eccc212ce63f7da95298f98719"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "name": "SHIT token",
+    "totalSupply": "999000000000000",
+    "symbol": "SHIT",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+    "address": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf70a642bd387f94380ffb90451c2c81d4eb82cbc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:03+00:00",
+    "icon": "icons\/starbase_28.png",
+    "name": "Starbase",
+    "totalSupply": "1000000000",
+    "symbol": "STAR",
+    "reputation": "NEUTRAL"
+}

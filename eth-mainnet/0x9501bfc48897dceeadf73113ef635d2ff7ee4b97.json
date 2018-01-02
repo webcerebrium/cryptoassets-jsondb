@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x9501bfc48897dceeadf73113ef635d2ff7ee4b97",
+    "address": "0x9501bfc48897dceeadf73113ef635d2ff7ee4b97",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9501bfc48897dceeadf73113ef635d2ff7ee4b97"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:45+00:00",
+    "icon": "icons\/easymine_28.png",
+    "name": "EasyMine",
+    "symbol": "EasyMine"
+}

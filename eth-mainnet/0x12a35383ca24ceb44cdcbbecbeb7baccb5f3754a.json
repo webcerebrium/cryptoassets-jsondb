@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x12a35383ca24ceb44cdcbbecbeb7baccb5f3754a",
+    "address": "0x12a35383ca24ceb44cdcbbecbeb7baccb5f3754a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x12a35383ca24ceb44cdcbbecbeb7baccb5f3754a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:06+00:00",
+    "name": "CREDITS",
+    "totalSupply": "1000000000",
+    "symbol": "CS",
+    "reputation": "UNKNOWN"
+}

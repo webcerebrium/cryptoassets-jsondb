@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb29678a4805a7d787dc9589e179d27f7575bb9f7",
+    "address": "0xb29678a4805a7d787dc9589e179d27f7575bb9f7",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb29678a4805a7d787dc9589e179d27f7575bb9f7"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:04+00:00",
+    "icon": "icons\/arubacoin_28.png",
+    "name": "ArubaCoin",
+    "totalSupply": "18000000",
+    "symbol": "AUA",
+    "reputation": "NEUTRAL"
+}

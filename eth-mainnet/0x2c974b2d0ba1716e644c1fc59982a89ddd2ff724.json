@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+    "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "icon": "icons\/viberate_28.png",
+    "name": "VIB",
+    "totalSupply": "200000000",
+    "symbol": "VIB",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd3e2f9dfff5a6feeece5dbcee3b86cb375fd8c98",
+    "address": "0xd3e2f9dfff5a6feeece5dbcee3b86cb375fd8c98",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd3e2f9dfff5a6feeece5dbcee3b86cb375fd8c98"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:09+00:00",
+    "icon": "icons\/bannercoin_28.png",
+    "name": "BannerCoin",
+    "totalSupply": "100000000",
+    "symbol": "BCOIN",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd884f9881e0aeabad79be8a69122cf998d067fff",
+    "address": "0xd884f9881e0aeabad79be8a69122cf998d067fff",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd884f9881e0aeabad79be8a69122cf998d067fff"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "name": "Soviet Union Ruble",
+    "totalSupply": "1487124821",
+    "symbol": "RUB",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x289fe11c6f46e28f9f1cfc72119aee92c1da50d0",
+    "address": "0x289fe11c6f46e28f9f1cfc72119aee92c1da50d0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x289fe11c6f46e28f9f1cfc72119aee92c1da50d0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "totalSupply": "",
+    "symbol": "3020000000000000000",
+    "reputation": "UNKNOWN",
+    "name": "3020000000000000000"
+}

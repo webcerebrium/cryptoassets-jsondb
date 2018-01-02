@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+    "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe3818504c1b32bf1557b16c238b2e01fd3149c17"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/pillar-wallet_28.png",
+    "name": "PILLAR",
+    "totalSupply": "800000000",
+    "symbol": "PLR",
+    "reputation": "NEUTRAL"
+}

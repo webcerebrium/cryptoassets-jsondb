@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xced4e93198734ddaff8492d525bd258d49eb388e",
+    "address": "0xced4e93198734ddaff8492d525bd258d49eb388e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xced4e93198734ddaff8492d525bd258d49eb388e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:17+00:00",
+    "icon": "icons\/eidoo_28.png",
+    "name": "Eidoo",
+    "totalSupply": "90408327.085307449137911911",
+    "symbol": "EDO",
+    "reputation": "NEUTRAL"
+}

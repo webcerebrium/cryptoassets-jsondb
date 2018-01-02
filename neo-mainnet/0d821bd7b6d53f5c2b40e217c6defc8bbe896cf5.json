@@ -1,0 +1,16 @@
+{
+    "_id": "NEO-1-0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5",
+    "address": "0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5",
+    "type": "token",
+    "format": "NEP5",
+    "explorer": [
+        "https://neotracker.io/contract/0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/QLINK.png",
+    "name": "Qlink",
+    "symbol": "QLC"
+}

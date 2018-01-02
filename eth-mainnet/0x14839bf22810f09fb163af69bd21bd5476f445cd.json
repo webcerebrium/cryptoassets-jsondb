@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x14839bf22810f09fb163af69bd21bd5476f445cd",
+    "address": "0x14839bf22810f09fb163af69bd21bd5476f445cd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x14839bf22810f09fb163af69bd21bd5476f445cd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:08+00:00",
+    "icon": "icons\/confido_28.png",
+    "name": "Confido Token",
+    "totalSupply": "15000000",
+    "symbol": "CFD",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x21692a811335301907ecd6343743791802ba7cfd",
+    "address": "0x21692a811335301907ecd6343743791802ba7cfd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x21692a811335301907ecd6343743791802ba7cfd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:02+00:00",
+    "name": "aducoin",
+    "totalSupply": "10000000",
+    "symbol": "ADU",
+    "reputation": "UNKNOWN"
+}

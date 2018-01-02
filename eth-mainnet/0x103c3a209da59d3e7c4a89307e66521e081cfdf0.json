@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+    "address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x103c3a209da59d3e7c4a89307e66521e081cfdf0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:05+00:00",
+    "icon": "icons\/genesisvision_28.png",
+    "name": "Genesis Vision",
+    "totalSupply": "4436643.928533333333333331",
+    "symbol": "GVT",
+    "reputation": "NEUTRAL"
+}

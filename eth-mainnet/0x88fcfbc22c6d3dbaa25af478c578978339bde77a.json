@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x88fcfbc22c6d3dbaa25af478c578978339bde77a",
+    "address": "0x88fcfbc22c6d3dbaa25af478c578978339bde77a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x88fcfbc22c6d3dbaa25af478c578978339bde77a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/FundYourselfNow.png",
+    "name": "FundYourselfNow",
+    "totalSupply": "12500000",
+    "symbol": "FYN",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x6467882316dc6e206feef05fba6deaa69277f155",
+    "address": "0x6467882316dc6e206feef05fba6deaa69277f155",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x6467882316dc6e206feef05fba6deaa69277f155"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:06+00:00",
+    "name": "FAPcoin",
+    "totalSupply": "500000000",
+    "symbol": "FAP",
+    "reputation": "UNKNOWN"
+}

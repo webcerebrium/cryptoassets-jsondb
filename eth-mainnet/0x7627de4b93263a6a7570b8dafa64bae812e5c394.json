@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x7627de4b93263a6a7570b8dafa64bae812e5c394",
+    "address": "0x7627de4b93263a6a7570b8dafa64bae812e5c394",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7627de4b93263a6a7570b8dafa64bae812e5c394"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:11+00:00",
+    "name": "Nexxus",
+    "totalSupply": "318000000",
+    "symbol": "NXX",
+    "reputation": "UNKNOWN"
+}

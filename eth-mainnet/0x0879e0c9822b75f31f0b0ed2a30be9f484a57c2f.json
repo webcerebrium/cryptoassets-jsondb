@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f",
+    "address": "0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0879e0c9822b75f31f0b0ed2a30be9f484a57c2f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:33+00:00",
+    "icon": "icons\/litecoingold_28.png",
+    "name": "LiteCoinGold",
+    "totalSupply": "84000000",
+    "symbol": "LTG",
+    "reputation": "UNKNOWN"
+}

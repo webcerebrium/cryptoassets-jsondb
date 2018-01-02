@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x8b0c9f462c239c963d8760105cbc935c63d85680",
+    "address": "0x8b0c9f462c239c963d8760105cbc935c63d85680",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8b0c9f462c239c963d8760105cbc935c63d85680"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:08+00:00",
+    "icon": "icons\/shizzlenizzle_28.png",
+    "name": "ShizzleNizzle",
+    "totalSupply": "10000000000",
+    "symbol": "SHNZ",
+    "reputation": "NEUTRAL"
+}

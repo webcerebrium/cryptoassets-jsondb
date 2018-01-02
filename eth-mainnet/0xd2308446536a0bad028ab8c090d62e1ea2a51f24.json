@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd2308446536a0bad028ab8c090d62e1ea2a51f24",
+    "address": "0xd2308446536a0bad028ab8c090d62e1ea2a51f24",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd2308446536a0bad028ab8c090d62e1ea2a51f24"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:10+00:00",
+    "name": "GNEISS Coin",
+    "totalSupply": "1000000000",
+    "symbol": "GNEISS",
+    "reputation": "UNKNOWN"
+}

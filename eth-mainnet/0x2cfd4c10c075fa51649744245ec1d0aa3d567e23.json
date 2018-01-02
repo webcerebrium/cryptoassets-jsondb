@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x2cfd4c10c075fa51649744245ec1d0aa3d567e23",
+    "address": "0x2cfd4c10c075fa51649744245ec1d0aa3d567e23",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x2cfd4c10c075fa51649744245ec1d0aa3d567e23"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:34+00:00",
+    "icon": "icons\/infinitypay_28.png",
+    "name": "Infinity Pay",
+    "totalSupply": "8000000",
+    "symbol": "IPY",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e",
+    "address": "0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "icon": "icons\/soarcoin_28.png",
+    "name": "Soarcoin",
+    "totalSupply": "5000000000",
+    "symbol": "Soar",
+    "reputation": "NEUTRAL"
+}

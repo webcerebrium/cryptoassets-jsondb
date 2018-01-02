@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd024645809f74043cd2133c6afeb46f0de4ad88f",
+    "address": "0xd024645809f74043cd2133c6afeb46f0de4ad88f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd024645809f74043cd2133c6afeb46f0de4ad88f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:22+00:00",
+    "name": "deertoken",
+    "totalSupply": "23000000",
+    "symbol": "DEER",
+    "reputation": "UNKNOWN"
+}

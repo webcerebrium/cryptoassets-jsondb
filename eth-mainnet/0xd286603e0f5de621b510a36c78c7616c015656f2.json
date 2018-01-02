@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd286603e0f5de621b510a36c78c7616c015656f2",
+    "address": "0xd286603e0f5de621b510a36c78c7616c015656f2",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd286603e0f5de621b510a36c78c7616c015656f2"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:36+00:00",
+    "name": "Bitcoin Gift",
+    "totalSupply": "150000000",
+    "symbol": "BGIFT",
+    "reputation": "UNKNOWN"
+}

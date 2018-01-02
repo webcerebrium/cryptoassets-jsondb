@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x80e7a4d750ade616da896c49049b7ede9e04c191",
+    "address": "0x80e7a4d750ade616da896c49049b7ede9e04c191",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x80e7a4d750ade616da896c49049b7ede9e04c191"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:56+00:00",
+    "icon": "icons\/astrcoin.png",
+    "name": "AstrCoin",
+    "symbol": "AstrCoin"
+}

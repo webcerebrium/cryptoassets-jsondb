@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+    "address": "0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x48f775efbe4f5ece6e0df2f7b5932df56823b990"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "icon": "icons\/revain28.jpg",
+    "name": "R token",
+    "totalSupply": "1000000000",
+    "symbol": "R",
+    "reputation": "NEUTRAL"
+}

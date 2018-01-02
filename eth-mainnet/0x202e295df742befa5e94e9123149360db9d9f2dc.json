@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x202e295df742befa5e94e9123149360db9d9f2dc",
+    "address": "0x202e295df742befa5e94e9123149360db9d9f2dc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x202e295df742befa5e94e9123149360db9d9f2dc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/nihilcoin_28.png",
+    "name": "NihilCoin",
+    "totalSupply": "42.94967296",
+    "symbol": "NIH",
+    "reputation": "UNKNOWN"
+}

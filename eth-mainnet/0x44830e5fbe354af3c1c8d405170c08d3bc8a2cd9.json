@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x44830e5fbe354af3c1c8d405170c08d3bc8a2cd9",
+    "address": "0x44830e5fbe354af3c1c8d405170c08d3bc8a2cd9",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x44830e5fbe354af3c1c8d405170c08d3bc8a2cd9"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:46+00:00",
+    "icon": "icons\/ethereumcenturion_28.png",
+    "name": "EthereumCenturion",
+    "symbol": "EthereumCenturion"
+}

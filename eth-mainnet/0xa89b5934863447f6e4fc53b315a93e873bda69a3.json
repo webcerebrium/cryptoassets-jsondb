@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xa89b5934863447f6e4fc53b315a93e873bda69a3",
+    "address": "0xa89b5934863447f6e4fc53b315a93e873bda69a3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa89b5934863447f6e4fc53b315a93e873bda69a3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:20+00:00",
+    "icon": "icons\/lumino_28.png",
+    "name": "LuminoCoin",
+    "totalSupply": "21000000",
+    "symbol": "LUM",
+    "reputation": "UNKNOWN"
+}

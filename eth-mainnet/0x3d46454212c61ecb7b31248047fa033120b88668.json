@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x3d46454212c61ecb7b31248047fa033120b88668",
+    "address": "0x3d46454212c61ecb7b31248047fa033120b88668",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x3d46454212c61ecb7b31248047fa033120b88668"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:23+00:00",
+    "icon": "icons\/movementdao_28.png",
+    "name": "The Movement",
+    "totalSupply": "3000000",
+    "symbol": "MVT",
+    "reputation": "NEUTRAL"
+}

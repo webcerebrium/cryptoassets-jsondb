@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xe25f0974fea47682f6a7386e4217da70512ec997",
+    "address": "0xe25f0974fea47682f6a7386e4217da70512ec997",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe25f0974fea47682f6a7386e4217da70512ec997"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:39+00:00",
+    "name": "Brightcoin",
+    "totalSupply": "70000000",
+    "symbol": "BRC",
+    "reputation": "UNKNOWN"
+}

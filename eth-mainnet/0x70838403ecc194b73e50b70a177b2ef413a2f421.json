@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x70838403ecc194b73e50b70a177b2ef413a2f421",
+    "address": "0x70838403ecc194b73e50b70a177b2ef413a2f421",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x70838403ecc194b73e50b70a177b2ef413a2f421"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:32+00:00",
+    "name": "bzxcoin",
+    "totalSupply": "10000000",
+    "symbol": "BZX",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x1b9743f556d65e757c4c650b4555baf354cb8bd3",
+    "address": "0x1b9743f556d65e757c4c650b4555baf354cb8bd3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1b9743f556d65e757c4c650b4555baf354cb8bd3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:03+00:00",
+    "icon": "icons\/ethbits2_28.png",
+    "name": "EthBits ETBS Token",
+    "totalSupply": "1634690.762741201212",
+    "symbol": "ETBS",
+    "reputation": "NEUTRAL"
+}

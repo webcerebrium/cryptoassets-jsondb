@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb0d926c1bc3d78064f3e1075d5bd9a24f35ae6c5",
+    "address": "0xb0d926c1bc3d78064f3e1075d5bd9a24f35ae6c5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb0d926c1bc3d78064f3e1075d5bd9a24f35ae6c5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "icon": "icons\/assistivereality_28.png",
+    "name": "Assistive Reality ARX",
+    "totalSupply": "318000000",
+    "symbol": "ARX",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xcb5a05bef3257613e984c17dbcf039952b6d883f",
+    "address": "0xcb5a05bef3257613e984c17dbcf039952b6d883f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xcb5a05bef3257613e984c17dbcf039952b6d883f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:24+00:00",
+    "icon": "icons\/sugarexchange_28.png",
+    "name": "Sugar Exchange",
+    "totalSupply": "80000000",
+    "symbol": "SGR",
+    "reputation": "NEUTRAL"
+}

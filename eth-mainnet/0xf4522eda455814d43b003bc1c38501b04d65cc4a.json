@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf4522eda455814d43b003bc1c38501b04d65cc4a",
+    "address": "0xf4522eda455814d43b003bc1c38501b04d65cc4a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf4522eda455814d43b003bc1c38501b04d65cc4a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:42+00:00",
+    "icon": "icons\/staticoin_cad-r_28.png",
+    "name": "CAD Risk",
+    "totalSupply": "0.727698973938799197",
+    "symbol": "CAD_R",
+    "reputation": "NEUTRAL"
+}

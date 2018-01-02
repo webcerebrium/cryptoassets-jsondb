@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xdab5dfa0966c3435da991b39d205c3ba1c64fe31",
+    "address": "0xdab5dfa0966c3435da991b39d205c3ba1c64fe31",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xdab5dfa0966c3435da991b39d205c3ba1c64fe31"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:00+00:00",
+    "name": "MilitaryPay",
+    "totalSupply": "9000000188908940000000.5",
+    "symbol": "MTP",
+    "reputation": "UNKNOWN"
+}

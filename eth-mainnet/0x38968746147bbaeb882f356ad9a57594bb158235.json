@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x38968746147bbaeb882f356ad9a57594bb158235",
+    "address": "0x38968746147bbaeb882f356ad9a57594bb158235",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x38968746147bbaeb882f356ad9a57594bb158235"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:00+00:00",
+    "icon": "icons\/benjacoin28.png",
+    "name": "benjaCoin",
+    "totalSupply": "1000000000",
+    "symbol": "BENJA",
+    "reputation": "NEUTRAL"
+}

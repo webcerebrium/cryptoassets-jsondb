@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd317ff47dc7e1423e5e050870a66332833e5fd88",
+    "address": "0xd317ff47dc7e1423e5e050870a66332833e5fd88",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd317ff47dc7e1423e5e050870a66332833e5fd88"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:39+00:00",
+    "name": "Pinky Token",
+    "totalSupply": "35800000000007000000",
+    "symbol": "PNY",
+    "reputation": "UNKNOWN"
+}

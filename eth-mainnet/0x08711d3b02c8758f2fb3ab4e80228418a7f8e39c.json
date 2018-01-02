@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+    "address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:53+00:00",
+    "icon": "icons\/edgeless.png",
+    "name": "Edgeless",
+    "totalSupply": "132046997",
+    "symbol": "EDG",
+    "reputation": "OK"
+}

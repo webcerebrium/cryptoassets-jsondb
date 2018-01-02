@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xeeac3f8da16bb0485a4a11c5128b0518dac81448",
+    "address": "0xeeac3f8da16bb0485a4a11c5128b0518dac81448",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xeeac3f8da16bb0485a4a11c5128b0518dac81448"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:06+00:00",
+    "icon": "icons\/teutoken_28.png",
+    "name": "Teu",
+    "symbol": "Teu"
+}

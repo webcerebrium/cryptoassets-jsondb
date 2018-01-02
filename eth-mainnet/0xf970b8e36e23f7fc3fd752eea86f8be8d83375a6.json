@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+    "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:43+00:00",
+    "icon": "icons\/ripio_28.png",
+    "name": "RipioCreditNetwork",
+    "symbol": "RipioCreditNetwork"
+}

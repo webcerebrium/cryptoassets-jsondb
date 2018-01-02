@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x5783862cef49094be4de1fe31280b2e33cf87416",
+    "address": "0x5783862cef49094be4de1fe31280b2e33cf87416",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5783862cef49094be4de1fe31280b2e33cf87416"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:38+00:00",
+    "icon": "icons\/kredx_28.png",
+    "name": "KredX",
+    "symbol": "KredX"
+}

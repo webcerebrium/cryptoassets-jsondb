@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x149a23f3d1a1e61e1e3b7eddd27f32e01f9788c7",
+    "address": "0x149a23f3d1a1e61e1e3b7eddd27f32e01f9788c7",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x149a23f3d1a1e61e1e3b7eddd27f32e01f9788c7"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:35+00:00",
+    "name": "CareCoin",
+    "totalSupply": "8888888888",
+    "symbol": "CCT",
+    "reputation": "UNKNOWN"
+}

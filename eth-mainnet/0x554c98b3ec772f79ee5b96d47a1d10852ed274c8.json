@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x554c98b3ec772f79ee5b96d47a1d10852ed274c8",
+    "address": "0x554c98b3ec772f79ee5b96d47a1d10852ed274c8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x554c98b3ec772f79ee5b96d47a1d10852ed274c8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:07+00:00",
+    "name": "Spectre Dividend Token",
+    "totalSupply": "9146068222010290000.35056",
+    "symbol": "SXD",
+    "reputation": "UNKNOWN"
+}

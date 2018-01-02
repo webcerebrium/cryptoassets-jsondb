@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+    "address": "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:09+00:00",
+    "icon": "icons\/1worldonline_28.png",
+    "name": "1World",
+    "totalSupply": "37219452.96",
+    "symbol": "1WO",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x93e682107d1e9defb0b5ee701c71707a4b2e46bc",
+    "address": "0x93e682107d1e9defb0b5ee701c71707a4b2e46bc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x93e682107d1e9defb0b5ee701c71707a4b2e46bc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/mcap.png",
+    "name": "MCAP",
+    "symbol": "MCAP"
+}

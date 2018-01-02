@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xeb9c0138d8ac10dd659640a4cc3d135c58b17b1b",
+    "address": "0xeb9c0138d8ac10dd659640a4cc3d135c58b17b1b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xeb9c0138d8ac10dd659640a4cc3d135c58b17b1b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "totalSupply": "150000000",
+    "symbol": "DTC",
+    "reputation": "UNKNOWN",
+    "name": "DTC"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xa94c128a138504e1f81d727cc21bcb9ae6581015",
+    "address": "0xa94c128a138504e1f81d727cc21bcb9ae6581015",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa94c128a138504e1f81d727cc21bcb9ae6581015"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:15+00:00",
+    "icon": "icons\/freedomstreaming_28.png",
+    "name": "FreedomStreamingCrowdsale",
+    "symbol": "FreedomStreamingCrowdsale"
+}

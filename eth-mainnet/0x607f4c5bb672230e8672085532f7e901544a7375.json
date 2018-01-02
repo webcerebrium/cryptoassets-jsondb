@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x607f4c5bb672230e8672085532f7e901544a7375",
+    "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x607f4c5bb672230e8672085532f7e901544a7375"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:53+00:00",
+    "icon": "icons\/iexec_28.png",
+    "name": "RLC",
+    "totalSupply": "86999784.986845492",
+    "symbol": "RLC",
+    "reputation": "OK"
+}

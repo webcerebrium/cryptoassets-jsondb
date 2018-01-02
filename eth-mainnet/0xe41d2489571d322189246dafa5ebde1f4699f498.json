@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe41d2489571d322189246dafa5ebde1f4699f498"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/0xtoken_28.png",
+    "name": "ZRX",
+    "totalSupply": "1000000000",
+    "symbol": "ZRX",
+    "reputation": "OK"
+}

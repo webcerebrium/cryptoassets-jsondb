@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+    "address": "0xb62d18dea74045e822352ce4b3ee77319dc5ff2f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb62d18dea74045e822352ce4b3ee77319dc5ff2f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "icon": "icons\/eventchain_28.png",
+    "name": "EventChain",
+    "totalSupply": "84000000",
+    "symbol": "EVC",
+    "reputation": "NEUTRAL"
+}

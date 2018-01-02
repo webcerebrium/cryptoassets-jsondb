@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5",
+    "address": "0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:57+00:00",
+    "name": "ChainTrade Coin",
+    "totalSupply": "42034200.0000000025082",
+    "symbol": "CTC",
+    "reputation": "UNKNOWN"
+}

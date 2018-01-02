@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+    "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/coindash_28.png",
+    "name": "CoinDash Token",
+    "totalSupply": "1000000000",
+    "symbol": "CDT",
+    "reputation": "NEUTRAL"
+}

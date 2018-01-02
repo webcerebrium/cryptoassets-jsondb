@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+    "address": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xaf4dce16da2877f8c9e00544c93b62ac40631f16"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "icon": "icons\/monetha_28.png",
+    "name": "Monetha",
+    "totalSupply": "402400000",
+    "symbol": "MTH",
+    "reputation": "NEUTRAL"
+}

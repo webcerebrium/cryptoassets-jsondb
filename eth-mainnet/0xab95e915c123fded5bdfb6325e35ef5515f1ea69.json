@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
+    "address": "0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xab95e915c123fded5bdfb6325e35ef5515f1ea69"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:07+00:00",
+    "icon": "icons\/xenon_28.png",
+    "name": "XENON",
+    "totalSupply": "1000000000",
+    "symbol": "XNN",
+    "reputation": "NEUTRAL"
+}

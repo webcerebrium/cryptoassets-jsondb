@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+    "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x41e5560054824ea6b0732e656e3ad64e20e94e45"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/civic_28.png",
+    "name": "Civic",
+    "totalSupply": "1000000000",
+    "symbol": "CVC",
+    "reputation": "OK"
+}

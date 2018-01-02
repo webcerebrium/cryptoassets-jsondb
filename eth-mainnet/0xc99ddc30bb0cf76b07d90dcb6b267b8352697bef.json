@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xc99ddc30bb0cf76b07d90dcb6b267b8352697bef",
+    "address": "0xc99ddc30bb0cf76b07d90dcb6b267b8352697bef",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xc99ddc30bb0cf76b07d90dcb6b267b8352697bef"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:00+00:00",
+    "name": "TDT",
+    "totalSupply": "0",
+    "symbol": "TDT",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xb2bfeb70b903f1baac7f2ba2c62934c7e5b974c4",
+    "address": "0xb2bfeb70b903f1baac7f2ba2c62934c7e5b974c4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb2bfeb70b903f1baac7f2ba2c62934c7e5b974c4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/betking28.jpg",
+    "name": "BetKing",
+    "symbol": "BetKing"
+}

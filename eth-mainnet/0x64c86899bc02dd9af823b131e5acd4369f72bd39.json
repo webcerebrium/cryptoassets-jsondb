@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x64c86899bc02dd9af823b131e5acd4369f72bd39",
+    "address": "0x64c86899bc02dd9af823b131e5acd4369f72bd39",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x64c86899bc02dd9af823b131e5acd4369f72bd39"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "icon": "icons\/renttoken_28.png",
+    "name": "Rent",
+    "symbol": "Rent"
+}

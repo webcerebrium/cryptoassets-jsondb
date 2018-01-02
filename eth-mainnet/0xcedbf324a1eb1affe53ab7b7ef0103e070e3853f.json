@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xcedbf324a1eb1affe53ab7b7ef0103e070e3853f",
+    "address": "0xcedbf324a1eb1affe53ab7b7ef0103e070e3853f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xcedbf324a1eb1affe53ab7b7ef0103e070e3853f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:36+00:00",
+    "name": "EtherLite",
+    "totalSupply": "100000",
+    "symbol": "ETL",
+    "reputation": "UNKNOWN"
+}

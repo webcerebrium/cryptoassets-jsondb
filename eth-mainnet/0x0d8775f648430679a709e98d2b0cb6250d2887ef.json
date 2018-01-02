@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:54+00:00",
+    "icon": "icons\/bat.png",
+    "name": "Bat",
+    "symbol": "Bat"
+}

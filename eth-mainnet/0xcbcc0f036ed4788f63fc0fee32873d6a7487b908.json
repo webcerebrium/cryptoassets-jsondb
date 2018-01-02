@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+    "address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xcbcc0f036ed4788f63fc0fee32873d6a7487b908"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:54+00:00",
+    "icon": "icons\/humaniq.png",
+    "name": "Humaniq",
+    "symbol": "Humaniq"
+}

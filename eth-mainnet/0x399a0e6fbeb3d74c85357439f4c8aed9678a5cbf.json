@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x399a0e6fbeb3d74c85357439f4c8aed9678a5cbf",
+    "address": "0x399a0e6fbeb3d74c85357439f4c8aed9678a5cbf",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x399a0e6fbeb3d74c85357439f4c8aed9678a5cbf"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:13+00:00",
+    "icon": "icons\/disledger_28.png",
+    "name": "DISLEDGER",
+    "totalSupply": "30000000",
+    "symbol": "DCL",
+    "reputation": "NEUTRAL"
+}

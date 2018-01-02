@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891",
+    "address": "0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9e77d5a1251b6f7d456722a6eac6d2d5980bd891"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/bratred28.png",
+    "name": "BRAT",
+    "totalSupply": "1000000000",
+    "symbol": "BRAT",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xcfb98637bcae43c13323eaa1731ced2b716962fd",
+    "address": "0xcfb98637bcae43c13323eaa1731ced2b716962fd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xcfb98637bcae43c13323eaa1731ced2b716962fd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:56+00:00",
+    "icon": "icons\/nimiq_28.png",
+    "name": "NimiqCrowdsale",
+    "symbol": "NimiqCrowdsale"
+}

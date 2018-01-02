@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xf24d3dfffcaf9f9a5dda9c57eeeb1ac0bba49c86",
+    "address": "0xf24d3dfffcaf9f9a5dda9c57eeeb1ac0bba49c86",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf24d3dfffcaf9f9a5dda9c57eeeb1ac0bba49c86"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:16+00:00",
+    "icon": "icons\/xmastoken_28.png",
+    "name": "Xmas",
+    "symbol": "Xmas"
+}

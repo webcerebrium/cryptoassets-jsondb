@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7728dfef5abd468669eb7f9b48a7f70a501ed29d",
+    "address": "0x7728dfef5abd468669eb7f9b48a7f70a501ed29d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7728dfef5abd468669eb7f9b48a7f70a501ed29d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:29+00:00",
+    "icon": "icons\/paragon2.png",
+    "name": "PRG",
+    "totalSupply": "164936642.800707",
+    "symbol": "PRG",
+    "reputation": "NEUTRAL"
+}

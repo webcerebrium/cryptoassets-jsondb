@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06",
+    "address": "0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/ptoy.png",
+    "name": "Patientory",
+    "symbol": "Patientory"
+}

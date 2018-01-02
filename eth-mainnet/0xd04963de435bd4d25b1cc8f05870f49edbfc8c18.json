@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd04963de435bd4d25b1cc8f05870f49edbfc8c18",
+    "address": "0xd04963de435bd4d25b1cc8f05870f49edbfc8c18",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd04963de435bd4d25b1cc8f05870f49edbfc8c18"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:25+00:00",
+    "name": "sennitoken",
+    "totalSupply": "21000000",
+    "symbol": "SNI",
+    "reputation": "UNKNOWN"
+}

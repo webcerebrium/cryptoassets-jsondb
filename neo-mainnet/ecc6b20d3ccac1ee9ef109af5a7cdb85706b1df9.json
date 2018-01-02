@@ -1,0 +1,17 @@
+{
+
+    "_id": "NEO-1-ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9",
+    "address": "ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9",
+    "type": "token",
+    "format": "NEP5",
+    "explorer": [
+        "https://neotracker.io/contract/ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/RPX.png",
+    "name": "Red Pulse",
+    "symbol": "RPX"
+}

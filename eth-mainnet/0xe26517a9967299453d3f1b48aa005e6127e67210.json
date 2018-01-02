@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xe26517a9967299453d3f1b48aa005e6127e67210",
+    "address": "0xe26517a9967299453d3f1b48aa005e6127e67210",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe26517a9967299453d3f1b48aa005e6127e67210"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/nimfamoney_28.png",
+    "name": "Nimfamoney",
+    "symbol": "Nimfamoney"
+}

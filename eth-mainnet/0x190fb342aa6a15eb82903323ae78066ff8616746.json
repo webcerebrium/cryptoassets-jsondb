@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x190fb342aa6a15eb82903323ae78066ff8616746",
+    "address": "0x190fb342aa6a15eb82903323ae78066ff8616746",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x190fb342aa6a15eb82903323ae78066ff8616746"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:03+00:00",
+    "icon": "icons\/umbrellacoin_28.png",
+    "name": "UmbrellaCoin",
+    "totalSupply": "100000000",
+    "symbol": "UMC",
+    "reputation": "NEUTRAL"
+}

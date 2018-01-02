@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x180e5087935a94fd5bbab00fd2249c5be0473381",
+    "address": "0x180e5087935a94fd5bbab00fd2249c5be0473381",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x180e5087935a94fd5bbab00fd2249c5be0473381"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:08+00:00",
+    "name": "ZCashGOLD",
+    "totalSupply": "5000000",
+    "symbol": "ZCG",
+    "reputation": "UNKNOWN"
+}

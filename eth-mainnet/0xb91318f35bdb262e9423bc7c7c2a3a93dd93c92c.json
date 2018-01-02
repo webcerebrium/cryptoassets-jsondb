@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
+    "address": "0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:22+00:00",
+    "icon": "icons\/nuls28.png",
+    "name": "Nuls",
+    "totalSupply": "40000000",
+    "symbol": "NULS",
+    "reputation": "NEUTRAL"
+}

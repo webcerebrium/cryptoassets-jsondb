@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+    "address": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "icon": "icons\/everex_28.png",
+    "name": "Everex",
+    "totalSupply": "25000000",
+    "symbol": "EVX",
+    "reputation": "NEUTRAL"
+}

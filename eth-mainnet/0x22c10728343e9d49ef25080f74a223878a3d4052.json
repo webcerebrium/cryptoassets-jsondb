@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x22c10728343e9d49ef25080f74a223878a3d4052",
+    "address": "0x22c10728343e9d49ef25080f74a223878a3d4052",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x22c10728343e9d49ef25080f74a223878a3d4052"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:46+00:00",
+    "icon": "icons\/digitalrupiah_28.png",
+    "name": "DigitalRupiah",
+    "symbol": "DigitalRupiah"
+}

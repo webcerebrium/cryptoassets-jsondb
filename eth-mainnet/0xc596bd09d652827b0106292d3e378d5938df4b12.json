@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xc596bd09d652827b0106292d3e378d5938df4b12",
+    "address": "0xc596bd09d652827b0106292d3e378d5938df4b12",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xc596bd09d652827b0106292d3e378d5938df4b12"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:04+00:00",
+    "icon": "icons\/009-TPT-Teleport-Token-Coin-Logo.png",
+    "name": "Teleport",
+    "totalSupply": "10000000000",
+    "symbol": "TPT",
+    "reputation": "NEUTRAL"
+}

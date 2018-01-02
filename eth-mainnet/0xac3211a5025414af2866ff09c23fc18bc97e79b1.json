@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+    "address": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xac3211a5025414af2866ff09c23fc18bc97e79b1"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:46+00:00",
+    "icon": "icons\/dovu_28.png",
+    "name": "Dovu",
+    "symbol": "Dovu"
+}

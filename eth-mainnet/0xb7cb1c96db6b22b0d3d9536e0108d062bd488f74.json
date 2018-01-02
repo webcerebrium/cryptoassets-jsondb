@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+    "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "icon": "icons\/walton_28.png",
+    "name": "Walton",
+    "totalSupply": "70000000",
+    "symbol": "WTC",
+    "reputation": "NEUTRAL"
+}

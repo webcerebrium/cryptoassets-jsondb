@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66",
+    "address": "0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x662abcad0b7f345ab7ffb1b1fbb9df7894f18e66"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:47+00:00",
+    "icon": "icons\/cartaxi28.png",
+    "name": "CarTaxi",
+    "symbol": "CarTaxi"
+}

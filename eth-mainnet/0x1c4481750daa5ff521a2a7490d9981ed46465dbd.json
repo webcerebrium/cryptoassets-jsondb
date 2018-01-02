@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+    "address": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1c4481750daa5ff521a2a7490d9981ed46465dbd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:23+00:00",
+    "icon": "icons\/blockmason_cp_28.png",
+    "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
+    "totalSupply": "116158667",
+    "symbol": "BCPT",
+    "reputation": "NEUTRAL"
+}

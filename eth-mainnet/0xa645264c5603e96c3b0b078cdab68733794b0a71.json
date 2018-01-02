@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xa645264c5603e96c3b0b078cdab68733794b0a71",
+    "address": "0xa645264c5603e96c3b0b078cdab68733794b0a71",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa645264c5603e96c3b0b078cdab68733794b0a71"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:54+00:00",
+    "icon": "icons\/mysterium_28.png",
+    "name": "Mysterium",
+    "totalSupply": "32433365.62220214",
+    "symbol": "MYST",
+    "reputation": "UNKNOWN"
+}

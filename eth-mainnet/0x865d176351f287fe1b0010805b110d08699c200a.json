@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x865d176351f287fe1b0010805b110d08699c200a",
+    "address": "0x865d176351f287fe1b0010805b110d08699c200a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x865d176351f287fe1b0010805b110d08699c200a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "icon": "icons\/bananacoin2_28.png",
+    "name": "BananaCoin Extended",
+    "totalSupply": "15480000",
+    "symbol": "BCO",
+    "reputation": "NEUTRAL"
+}

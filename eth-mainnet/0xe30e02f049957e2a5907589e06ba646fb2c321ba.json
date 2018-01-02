@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xe30e02f049957e2a5907589e06ba646fb2c321ba",
+    "address": "0xe30e02f049957e2a5907589e06ba646fb2c321ba",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe30e02f049957e2a5907589e06ba646fb2c321ba"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:07+00:00",
+    "name": "DRP Utility",
+    "totalSupply": "458536.6598",
+    "symbol": "DRPU",
+    "reputation": "UNKNOWN"
+}

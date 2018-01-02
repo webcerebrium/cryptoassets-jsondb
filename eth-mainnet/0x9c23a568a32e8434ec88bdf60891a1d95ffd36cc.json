@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x9c23a568a32e8434ec88bdf60891a1d95ffd36cc",
+    "address": "0x9c23a568a32e8434ec88bdf60891a1d95ffd36cc",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9c23a568a32e8434ec88bdf60891a1d95ffd36cc"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:10+00:00",
+    "name": "CHUCK NORRIS",
+    "totalSupply": "100000",
+    "symbol": "CHUCKNORRIS",
+    "reputation": "UNKNOWN"
+}

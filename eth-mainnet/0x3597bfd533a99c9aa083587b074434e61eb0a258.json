@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x3597bfd533a99c9aa083587b074434e61eb0a258",
+    "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x3597bfd533a99c9aa083587b074434e61eb0a258"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/dentcoin.png",
+    "name": "DENT",
+    "totalSupply": "100000000000",
+    "symbol": "DENT",
+    "reputation": "NEUTRAL"
+}

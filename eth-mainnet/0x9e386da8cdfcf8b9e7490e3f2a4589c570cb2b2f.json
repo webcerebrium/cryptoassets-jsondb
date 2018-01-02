@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x9e386da8cdfcf8b9e7490e3f2a4589c570cb2b2f",
+    "address": "0x9e386da8cdfcf8b9e7490e3f2a4589c570cb2b2f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9e386da8cdfcf8b9e7490e3f2a4589c570cb2b2f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:33+00:00",
+    "icon": "icons\/redpill_28.png",
+    "name": "RedPill",
+    "totalSupply": "100008760.89259",
+    "symbol": "RPIL",
+    "reputation": "NEUTRAL"
+}

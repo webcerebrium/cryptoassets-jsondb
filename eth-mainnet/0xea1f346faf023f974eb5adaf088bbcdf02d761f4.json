@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+    "address": "0xea1f346faf023f974eb5adaf088bbcdf02d761f4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xea1f346faf023f974eb5adaf088bbcdf02d761f4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/blocktix_28.png",
+    "name": "Blocktix",
+    "totalSupply": "62500000",
+    "symbol": "TIX",
+    "reputation": "NEUTRAL"
+}

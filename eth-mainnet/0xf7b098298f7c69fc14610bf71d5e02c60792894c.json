@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf7b098298f7c69fc14610bf71d5e02c60792894c",
+    "address": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf7b098298f7c69fc14610bf71d5e02c60792894c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:53+00:00",
+    "icon": "icons\/Matchpool.png",
+    "name": "Guppy",
+    "totalSupply": "98855149.62",
+    "symbol": "Guppy",
+    "reputation": "OK"
+}

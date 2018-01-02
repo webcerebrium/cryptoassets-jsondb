@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
+    "address": "0x27dce1ec4d3f72c3e457cc50354f1f975ddef488",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x27dce1ec4d3f72c3e457cc50354f1f975ddef488"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:07+00:00",
+    "icon": "icons\/airtoken_28.png",
+    "name": "AirToken",
+    "totalSupply": "1491492558",
+    "symbol": "AIR",
+    "reputation": "NEUTRAL"
+}

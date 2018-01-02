@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x77faed976e187f26b49e78be8418ab074a341f26",
+    "address": "0x77faed976e187f26b49e78be8418ab074a341f26",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x77faed976e187f26b49e78be8418ab074a341f26"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:05+00:00",
+    "icon": "icons\/iwtoken_28.png",
+    "name": "IW",
+    "symbol": "IW"
+}

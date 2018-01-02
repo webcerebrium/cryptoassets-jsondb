@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+    "address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/Monaco.png",
+    "name": "Monaco",
+    "totalSupply": "31587682.3632061",
+    "symbol": "MCO",
+    "reputation": "OK"
+}

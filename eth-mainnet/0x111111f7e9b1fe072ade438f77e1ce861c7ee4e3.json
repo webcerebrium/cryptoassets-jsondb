@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x111111f7e9b1fe072ade438f77e1ce861c7ee4e3",
+    "address": "0x111111f7e9b1fe072ade438f77e1ce861c7ee4e3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x111111f7e9b1fe072ade438f77e1ce861c7ee4e3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:49+00:00",
+    "icon": "icons\/bitclave_28.png",
+    "name": "ConsumerActivity",
+    "symbol": "ConsumerActivity"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7b69b78cc7fee48202c208609ae6d1f78ce42e13",
+    "address": "0x7b69b78cc7fee48202c208609ae6d1f78ce42e13",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7b69b78cc7fee48202c208609ae6d1f78ce42e13"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:46+00:00",
+    "icon": "icons\/goalbonanza_28.png",
+    "name": "GOAL Bonanza",
+    "totalSupply": "536776671.26788523492872227",
+    "symbol": "GOAL",
+    "reputation": "NEUTRAL"
+}

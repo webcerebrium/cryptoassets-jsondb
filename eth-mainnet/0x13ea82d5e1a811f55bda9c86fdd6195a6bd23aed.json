@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x13ea82d5e1a811f55bda9c86fdd6195a6bd23aed",
+    "address": "0x13ea82d5e1a811f55bda9c86fdd6195a6bd23aed",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x13ea82d5e1a811f55bda9c86fdd6195a6bd23aed"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:06+00:00",
+    "icon": "icons\/tfchain_28.png",
+    "name": "TFChain",
+    "symbol": "TFChain"
+}

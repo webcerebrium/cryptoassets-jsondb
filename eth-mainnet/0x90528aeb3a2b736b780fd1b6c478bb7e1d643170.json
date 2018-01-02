@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
+    "address": "0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x90528aeb3a2b736b780fd1b6c478bb7e1d643170"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/xplay_28.png",
+    "name": "XPlay",
+    "symbol": "XPlay"
+}

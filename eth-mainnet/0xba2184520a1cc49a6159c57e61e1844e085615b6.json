@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xba2184520a1cc49a6159c57e61e1844e085615b6",
+    "address": "0xba2184520a1cc49a6159c57e61e1844e085615b6",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xba2184520a1cc49a6159c57e61e1844e085615b6"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:05+00:00",
+    "icon": "icons\/hellogold_28.png",
+    "name": "HelloGold",
+    "symbol": "HelloGold"
+}

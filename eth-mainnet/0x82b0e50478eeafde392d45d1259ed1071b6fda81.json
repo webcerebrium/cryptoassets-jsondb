@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+    "address": "0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x82b0e50478eeafde392d45d1259ed1071b6fda81"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:33+00:00",
+    "icon": "icons\/encrypgen2_28.png",
+    "name": "DNA",
+    "totalSupply": "100000000",
+    "symbol": "DNA",
+    "reputation": "NEUTRAL"
+}

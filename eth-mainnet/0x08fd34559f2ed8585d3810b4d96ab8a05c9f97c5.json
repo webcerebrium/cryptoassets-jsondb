@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x08fd34559f2ed8585d3810b4d96ab8a05c9f97c5",
+    "address": "0x08fd34559f2ed8585d3810b4d96ab8a05c9f97c5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x08fd34559f2ed8585d3810b4d96ab8a05c9f97c5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/clustertoken_28.png",
+    "name": "ClusterToken",
+    "totalSupply": "750",
+    "symbol": "CLRT",
+    "reputation": "NEUTRAL"
+}

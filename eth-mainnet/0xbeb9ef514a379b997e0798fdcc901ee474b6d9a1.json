@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1",
+    "address": "0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:53+00:00",
+    "icon": "icons\/melon.jpg",
+    "name": "Melon",
+    "totalSupply": "749400",
+    "symbol": "MLN",
+    "reputation": "OK"
+}

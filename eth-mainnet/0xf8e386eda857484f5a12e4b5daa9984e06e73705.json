@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+    "address": "0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf8e386eda857484f5a12e4b5daa9984e06e73705"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/indorse_etherscan.png",
+    "name": "Indorse",
+    "totalSupply": "170622047",
+    "symbol": "IND",
+    "reputation": "OK"
+}

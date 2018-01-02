@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xce61f5e6d1fe5a86e246f68aff956f7757282ef0",
+    "address": "0xce61f5e6d1fe5a86e246f68aff956f7757282ef0",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xce61f5e6d1fe5a86e246f68aff956f7757282ef0"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:07+00:00",
+    "icon": "icons\/life_28.png",
+    "name": "LIFECREDIT",
+    "totalSupply": "166666666",
+    "symbol": "1LIFE",
+    "reputation": "NEUTRAL"
+}

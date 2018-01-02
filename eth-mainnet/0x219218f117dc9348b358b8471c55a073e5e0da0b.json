@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x219218f117dc9348b358b8471c55a073e5e0da0b",
+    "address": "0x219218f117dc9348b358b8471c55a073e5e0da0b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x219218f117dc9348b358b8471c55a073e5e0da0b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:24+00:00",
+    "icon": "icons\/goldreward_28.png",
+    "name": "Gold Reward",
+    "totalSupply": "20000000",
+    "symbol": "GRX",
+    "reputation": "NEUTRAL"
+}

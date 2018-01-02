@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xa5d1e58ece1fc438d64e65769d2ab730143a4caf",
+    "address": "0xa5d1e58ece1fc438d64e65769d2ab730143a4caf",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa5d1e58ece1fc438d64e65769d2ab730143a4caf"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:51+00:00",
+    "icon": "icons\/robomed_28.png",
+    "name": "RobomedICO",
+    "symbol": "RobomedICO"
+}

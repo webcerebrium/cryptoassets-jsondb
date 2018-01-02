@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xbfd4a3c26996dfc9e85a951eb615aac3b84c758b",
+    "address": "0xbfd4a3c26996dfc9e85a951eb615aac3b84c758b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xbfd4a3c26996dfc9e85a951eb615aac3b84c758b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:06+00:00",
+    "icon": "icons\/alpencash_28.png",
+    "name": "AlpenCash",
+    "totalSupply": "250000000",
+    "symbol": "ALPC",
+    "reputation": "NEUTRAL"
+}

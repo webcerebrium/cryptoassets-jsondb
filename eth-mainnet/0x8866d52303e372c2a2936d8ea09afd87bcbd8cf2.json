@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x8866d52303e372c2a2936d8ea09afd87bcbd8cf2",
+    "address": "0x8866d52303e372c2a2936d8ea09afd87bcbd8cf2",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8866d52303e372c2a2936d8ea09afd87bcbd8cf2"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:12+00:00",
+    "name": "Trust Pool Token",
+    "totalSupply": "50000000",
+    "symbol": "TPL",
+    "reputation": "UNKNOWN"
+}

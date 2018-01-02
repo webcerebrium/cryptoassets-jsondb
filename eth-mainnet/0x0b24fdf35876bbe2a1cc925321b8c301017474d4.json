@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x0b24fdf35876bbe2a1cc925321b8c301017474d4",
+    "address": "0x0b24fdf35876bbe2a1cc925321b8c301017474d4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0b24fdf35876bbe2a1cc925321b8c301017474d4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:22+00:00",
+    "name": "Just",
+    "totalSupply": "28000000000005000000",
+    "symbol": "JWT",
+    "reputation": "UNKNOWN"
+}

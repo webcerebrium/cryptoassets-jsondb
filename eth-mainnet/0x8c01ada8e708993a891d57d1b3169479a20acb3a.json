@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x8c01ada8e708993a891d57d1b3169479a20acb3a",
+    "address": "0x8c01ada8e708993a891d57d1b3169479a20acb3a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8c01ada8e708993a891d57d1b3169479a20acb3a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:35+00:00",
+    "name": "VitalikCoin",
+    "totalSupply": "118750000",
+    "symbol": "VIT",
+    "reputation": "UNKNOWN"
+}

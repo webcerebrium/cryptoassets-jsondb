@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11",
+    "address": "0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x6aac8cb9861e42bf8259f5abdc6ae3ae89909e11"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:33+00:00",
+    "icon": "icons\/bitcoinred_28.png",
+    "name": "Bitcoin Red",
+    "totalSupply": "21000000",
+    "symbol": "BTCR",
+    "reputation": "NEUTRAL"
+}

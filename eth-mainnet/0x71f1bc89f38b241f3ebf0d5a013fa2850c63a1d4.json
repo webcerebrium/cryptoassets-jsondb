@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4",
+    "address": "0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x71f1bc89f38b241f3ebf0d5a013fa2850c63a1d4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:40+00:00",
+    "icon": "icons\/zloadr_28.png",
+    "name": "Zloadr",
+    "totalSupply": "100000000",
+    "symbol": "ZDR",
+    "reputation": "NEUTRAL"
+}

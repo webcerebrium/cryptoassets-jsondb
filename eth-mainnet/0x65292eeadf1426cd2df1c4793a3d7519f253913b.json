@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x65292eeadf1426cd2df1c4793a3d7519f253913b",
+    "address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x65292eeadf1426cd2df1c4793a3d7519f253913b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:07+00:00",
+    "icon": "icons\/coss_28.png",
+    "name": "COSS",
+    "totalSupply": "0.00000000005435982",
+    "symbol": "COSS",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xe58aff48f738b4a719d1790587cdc91a3560d7e1",
+    "address": "0xe58aff48f738b4a719d1790587cdc91a3560d7e1",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe58aff48f738b4a719d1790587cdc91a3560d7e1"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:51+00:00",
+    "name": "TokenMarketPlace",
+    "totalSupply": "20000000",
+    "symbol": "TMP",
+    "reputation": "UNKNOWN"
+}

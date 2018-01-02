@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8",
+    "address": "0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:56+00:00",
+    "icon": "icons\/ethgas_28.png",
+    "name": "ETHGAS",
+    "totalSupply": "13792050",
+    "symbol": "eGAS",
+    "reputation": "NEUTRAL"
+}

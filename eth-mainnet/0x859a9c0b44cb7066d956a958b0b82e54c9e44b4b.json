@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b",
+    "address": "0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:30+00:00",
+    "icon": "icons\/iethereum_28.png",
+    "name": "iEthereum",
+    "totalSupply": "18000000",
+    "symbol": "iETH",
+    "reputation": "NEUTRAL"
+}

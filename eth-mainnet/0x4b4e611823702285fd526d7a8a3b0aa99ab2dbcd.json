@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x4b4e611823702285fd526d7a8a3b0aa99ab2dbcd",
+    "address": "0x4b4e611823702285fd526d7a8a3b0aa99ab2dbcd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x4b4e611823702285fd526d7a8a3b0aa99ab2dbcd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:45+00:00",
+    "name": "Handelion token",
+    "totalSupply": "105413.6886885",
+    "symbol": "HDLT",
+    "reputation": "UNKNOWN"
+}

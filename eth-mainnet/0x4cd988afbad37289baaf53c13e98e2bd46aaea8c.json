@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
+    "address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x4cd988afbad37289baaf53c13e98e2bd46aaea8c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:21+00:00",
+    "icon": "icons\/bihu_28.png",
+    "name": "KEY",
+    "totalSupply": "100000000000",
+    "symbol": "KEY",
+    "reputation": "NEUTRAL"
+}

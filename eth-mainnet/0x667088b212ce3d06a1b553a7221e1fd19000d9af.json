@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x667088b212ce3d06a1b553a7221e1fd19000d9af",
+    "address": "0x667088b212ce3d06a1b553a7221e1fd19000d9af",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x667088b212ce3d06a1b553a7221e1fd19000d9af"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:54+00:00",
+    "icon": "icons\/wingsdao.png",
+    "name": "WINGS",
+    "totalSupply": "100000000",
+    "symbol": "WINGS",
+    "reputation": "OK"
+}

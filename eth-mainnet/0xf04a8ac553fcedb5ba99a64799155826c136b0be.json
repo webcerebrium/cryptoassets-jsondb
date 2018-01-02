@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+    "address": "0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf04a8ac553fcedb5ba99a64799155826c136b0be"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:48+00:00",
+    "icon": "icons\/flixxo_28.png",
+    "name": "Flixx",
+    "totalSupply": "189151328.5746788564831958",
+    "symbol": "FLIXX",
+    "reputation": "NEUTRAL"
+}

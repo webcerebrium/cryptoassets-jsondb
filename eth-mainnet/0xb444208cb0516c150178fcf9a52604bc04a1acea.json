@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xb444208cb0516c150178fcf9a52604bc04a1acea",
+    "address": "0xb444208cb0516c150178fcf9a52604bc04a1acea",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb444208cb0516c150178fcf9a52604bc04a1acea"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:01+00:00",
+    "icon": "icons\/greenmed_28.png",
+    "name": "GreenMed",
+    "totalSupply": "14899993",
+    "symbol": "GRMD",
+    "reputation": "NEUTRAL"
+}

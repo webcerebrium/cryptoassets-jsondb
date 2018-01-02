@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xfcb48fdcc479b38068c06ee94249b1516adf09cb",
+    "address": "0xfcb48fdcc479b38068c06ee94249b1516adf09cb",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xfcb48fdcc479b38068c06ee94249b1516adf09cb"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:25+00:00",
+    "name": "EUROBITS",
+    "totalSupply": "1000000000",
+    "symbol": "EURB",
+    "reputation": "UNKNOWN"
+}

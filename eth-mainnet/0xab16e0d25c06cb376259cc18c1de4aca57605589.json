@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xab16e0d25c06cb376259cc18c1de4aca57605589",
+    "address": "0xab16e0d25c06cb376259cc18c1de4aca57605589",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xab16e0d25c06cb376259cc18c1de4aca57605589"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "icon": "icons\/fucktoken_28.png",
+    "name": "FinallyUsableCryptoKarma",
+    "totalSupply": "70856018.9048",
+    "symbol": "FUCK",
+    "reputation": "NEUTRAL"
+}

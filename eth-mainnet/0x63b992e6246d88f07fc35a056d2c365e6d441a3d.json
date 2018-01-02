@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x63b992e6246d88f07fc35a056d2c365e6d441a3d",
+    "address": "0x63b992e6246d88f07fc35a056d2c365e6d441a3d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x63b992e6246d88f07fc35a056d2c365e6d441a3d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:31+00:00",
+    "name": "Soma Community Token",
+    "totalSupply": "60000000",
+    "symbol": "SCT",
+    "reputation": "UNKNOWN"
+}

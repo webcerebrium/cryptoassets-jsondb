@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+    "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/stox_28.png",
+    "name": "Stox",
+    "totalSupply": "58520307.125151464076280926",
+    "symbol": "STX",
+    "reputation": "NEUTRAL"
+}

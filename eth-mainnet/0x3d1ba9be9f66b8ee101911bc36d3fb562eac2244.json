@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+    "address": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:01+00:00",
+    "icon": "icons\/rivet_28.png",
+    "name": "RvT",
+    "totalSupply": "200000000",
+    "symbol": "RVT",
+    "reputation": "NEUTRAL"
+}

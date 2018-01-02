@@ -1,0 +1,15 @@
+{
+    "_id": "ETH-1-0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x744d70fdbe2ba4cf95131626614a1763df805b9e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "name": "Status",
+    "symbol": "Status"
+}

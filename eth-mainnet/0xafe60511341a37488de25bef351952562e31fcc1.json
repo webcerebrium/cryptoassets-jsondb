@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xafe60511341a37488de25bef351952562e31fcc1",
+    "address": "0xafe60511341a37488de25bef351952562e31fcc1",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xafe60511341a37488de25bef351952562e31fcc1"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:09+00:00",
+    "icon": "icons\/tbitbot_28.png",
+    "name": "TBOT",
+    "totalSupply": "30000000",
+    "symbol": "TBT",
+    "reputation": "NEUTRAL"
+}

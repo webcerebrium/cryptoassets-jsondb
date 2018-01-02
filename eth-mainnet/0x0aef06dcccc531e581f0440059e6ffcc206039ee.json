@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x0aef06dcccc531e581f0440059e6ffcc206039ee",
+    "address": "0x0aef06dcccc531e581f0440059e6ffcc206039ee",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0aef06dcccc531e581f0440059e6ffcc206039ee"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "icon": "icons\/itt_token_28.jpg",
+    "name": "Intelligent Trading Technologies",
+    "totalSupply": "11500000",
+    "symbol": "ITT",
+    "reputation": "NEUTRAL"
+}

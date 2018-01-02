@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xdfbd6a960a55bcfcf59d5925351e05a51498bcef",
+    "address": "0xdfbd6a960a55bcfcf59d5925351e05a51498bcef",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xdfbd6a960a55bcfcf59d5925351e05a51498bcef"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:32+00:00",
+    "icon": "icons\/icerock28.png",
+    "name": "ROCKCoin",
+    "totalSupply": "524762",
+    "symbol": "ROCK",
+    "reputation": "NEUTRAL"
+}

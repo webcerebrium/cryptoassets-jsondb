@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xc63e7b1dece63a77ed7e4aeef5efb3b05c81438d",
+    "address": "0xc63e7b1dece63a77ed7e4aeef5efb3b05c81438d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xc63e7b1dece63a77ed7e4aeef5efb3b05c81438d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:57+00:00",
+    "name": "FUCKtoken",
+    "totalSupply": "70856774.495",
+    "symbol": "FUCK",
+    "reputation": "UNKNOWN"
+}

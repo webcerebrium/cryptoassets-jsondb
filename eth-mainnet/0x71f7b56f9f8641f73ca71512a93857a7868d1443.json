@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x71f7b56f9f8641f73ca71512a93857a7868d1443",
+    "address": "0x71f7b56f9f8641f73ca71512a93857a7868d1443",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x71f7b56f9f8641f73ca71512a93857a7868d1443"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:32+00:00",
+    "name": "Kamera",
+    "totalSupply": "7000000",
+    "symbol": "KMR",
+    "reputation": "UNKNOWN"
+}

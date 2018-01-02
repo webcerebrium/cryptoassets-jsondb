@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0xd96b9fd7586d9ea24c950d24399be4fb65372fdd",
+    "address": "0xd96b9fd7586d9ea24c950d24399be4fb65372fdd",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd96b9fd7586d9ea24c950d24399be4fb65372fdd"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:17+00:00",
+    "name": "Bitcoin Silver",
+    "totalSupply": "50000000",
+    "symbol": "BTCS",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x0f598112679b78e17a4a9febc83703710d33489c",
+    "address": "0x0f598112679b78e17a4a9febc83703710d33489c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0f598112679b78e17a4a9febc83703710d33489c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:00+00:00",
+    "icon": "icons\/monero-gold_28.png",
+    "name": "Monero Gold",
+    "totalSupply": "21000000",
+    "symbol": "XMRG",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970",
+    "address": "0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa54ddc7b3cce7fc8b1e3fa0256d0db80d2c10970"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:04+00:00",
+    "icon": "icons\/001-NDC-NEVERDIE-Coin-Logo.png",
+    "name": "NEVERDIE",
+    "totalSupply": "400000000",
+    "symbol": "NDC",
+    "reputation": "NEUTRAL"
+}

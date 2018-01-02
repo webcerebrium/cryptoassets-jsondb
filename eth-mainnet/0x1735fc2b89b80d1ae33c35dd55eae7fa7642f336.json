@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x1735fc2b89b80d1ae33c35dd55eae7fa7642f336",
+    "address": "0x1735fc2b89b80d1ae33c35dd55eae7fa7642f336",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1735fc2b89b80d1ae33c35dd55eae7fa7642f336"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:42+00:00",
+    "icon": "icons\/staticoin_cad_s_28.png",
+    "name": "CAD Static",
+    "totalSupply": "2.329947544530727409",
+    "symbol": "CAD_S",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x6678e467fa5ccfbdc264d12f4b8b28fe4661606b",
+    "address": "0x6678e467fa5ccfbdc264d12f4b8b28fe4661606b",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x6678e467fa5ccfbdc264d12f4b8b28fe4661606b"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "name": "Decent Token",
+    "totalSupply": "1000000000",
+    "symbol": "DCNT",
+    "reputation": "UNKNOWN"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x614ea929892ea43d3ea2c5e3311b01cc589bad6c",
+    "address": "0x614ea929892ea43d3ea2c5e3311b01cc589bad6c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x614ea929892ea43d3ea2c5e3311b01cc589bad6c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:10+00:00",
+    "icon": "icons\/ethino_28.png",
+    "name": "Ethino",
+    "symbol": "Ethino"
+}

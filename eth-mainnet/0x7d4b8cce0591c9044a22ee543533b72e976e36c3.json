@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+    "address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x7d4b8cce0591c9044a22ee543533b72e976e36c3"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:21+00:00",
+    "icon": "icons\/changecoin_28.png",
+    "name": "ChangeBank",
+    "totalSupply": "79184115.81564272628282025",
+    "symbol": "CAG",
+    "reputation": "NEUTRAL"
+}

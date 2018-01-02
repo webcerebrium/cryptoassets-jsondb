@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xe701cd3329057aea9d54300ddd05e41b8d74727a",
+    "address": "0xe701cd3329057aea9d54300ddd05e41b8d74727a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe701cd3329057aea9d54300ddd05e41b8d74727a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:18+00:00",
+    "icon": "icons\/10mt_28.png",
+    "name": "10M Token",
+    "totalSupply": "10000000",
+    "symbol": "10MT",
+    "reputation": "NEUTRAL"
+}

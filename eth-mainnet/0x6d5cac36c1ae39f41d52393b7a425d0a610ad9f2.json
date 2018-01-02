@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2",
+    "address": "0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x6d5cac36c1ae39f41d52393b7a425d0a610ad9f2"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:07+00:00",
+    "icon": "icons\/lltoken_28.jpg",
+    "name": "LLToken",
+    "totalSupply": "1000000000",
+    "symbol": "LLT",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x4c5601164e2048a4154de91fa5e0b07e626cab7f",
+    "address": "0x4c5601164e2048a4154de91fa5e0b07e626cab7f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x4c5601164e2048a4154de91fa5e0b07e626cab7f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "icon": "icons\/adfunnel_28.png",
+    "name": "Funnel",
+    "totalSupply": "100000000",
+    "symbol": "FNL",
+    "reputation": "NEUTRAL"
+}

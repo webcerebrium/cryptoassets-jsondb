@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x11f8dd7699147566cf193596083d45c8f592c4ba",
+    "address": "0x11f8dd7699147566cf193596083d45c8f592c4ba",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x11f8dd7699147566cf193596083d45c8f592c4ba"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:38+00:00",
+    "totalSupply": "58000000",
+    "symbol": "ETHC",
+    "reputation": "UNKNOWN",
+    "name": "ETHC"
+}

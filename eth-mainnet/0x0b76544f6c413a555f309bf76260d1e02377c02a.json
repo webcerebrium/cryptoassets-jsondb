@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x0b76544f6c413a555f309bf76260d1e02377c02a",
+    "address": "0x0b76544f6c413a555f309bf76260d1e02377c02a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0b76544f6c413a555f309bf76260d1e02377c02a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:08+00:00",
+    "icon": "icons\/intchain_28.png",
+    "name": "Internet Node Token",
+    "totalSupply": "1000000000",
+    "symbol": "INT",
+    "reputation": "NEUTRAL"
+}

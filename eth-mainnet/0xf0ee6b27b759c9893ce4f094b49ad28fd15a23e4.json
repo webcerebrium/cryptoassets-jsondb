@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+    "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/enigma_28.png",
+    "name": "Enigma",
+    "symbol": "Enigma"
+}

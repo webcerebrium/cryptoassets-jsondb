@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+    "address": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe0b7927c4af23765cb51314a0e0521a9645f0e2a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "icon": "icons\/digix-logo.png",
+    "name": "DGD",
+    "totalSupply": "1999420.6383",
+    "symbol": "DGD",
+    "reputation": "OK"
+}

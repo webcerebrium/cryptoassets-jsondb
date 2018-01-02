@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xd234bf2410a0009df9c3c63b610c09738f18ccd7",
+    "address": "0xd234bf2410a0009df9c3c63b610c09738f18ccd7",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xd234bf2410a0009df9c3c63b610c09738f18ccd7"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:05+00:00",
+    "icon": "icons\/tokensnet_28.png",
+    "name": "Dynamic Trading Rights",
+    "totalSupply": "3750000000",
+    "symbol": "DTR",
+    "reputation": "NEUTRAL"
+}

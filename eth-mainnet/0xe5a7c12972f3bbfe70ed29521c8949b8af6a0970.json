@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970",
+    "address": "0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:02+00:00",
+    "icon": "icons\/blockchain-index_28.png",
+    "name": "Blockchain Index",
+    "totalSupply": "515442.301622220705263766",
+    "symbol": "BLX",
+    "reputation": "NEUTRAL"
+}

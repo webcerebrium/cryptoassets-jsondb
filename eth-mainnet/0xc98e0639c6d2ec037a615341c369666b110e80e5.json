@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xc98e0639c6d2ec037a615341c369666b110e80e5",
+    "address": "0xc98e0639c6d2ec037a615341c369666b110e80e5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xc98e0639c6d2ec037a615341c369666b110e80e5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:29+00:00",
+    "icon": "icons\/exmr_28.png",
+    "name": "EXMR",
+    "totalSupply": "15000000",
+    "symbol": "EXMR",
+    "reputation": "NEUTRAL"
+}

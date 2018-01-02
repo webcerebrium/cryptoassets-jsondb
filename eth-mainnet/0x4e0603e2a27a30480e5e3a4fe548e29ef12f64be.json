@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+    "address": "0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:59+00:00",
+    "icon": "icons\/credo_28.png",
+    "name": "Credo Token",
+    "totalSupply": "1374729257.2286",
+    "symbol": "CREDO",
+    "reputation": "NEUTRAL"
+}

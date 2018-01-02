@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x27f610bf36eca0939093343ac28b1534a721dbb4",
+    "address": "0x27f610bf36eca0939093343ac28b1534a721dbb4",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x27f610bf36eca0939093343ac28b1534a721dbb4"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:09+00:00",
+    "icon": "icons\/wandX_28.png",
+    "name": "Wand Token",
+    "totalSupply": "75400000",
+    "symbol": "WAND",
+    "reputation": "NEUTRAL"
+}

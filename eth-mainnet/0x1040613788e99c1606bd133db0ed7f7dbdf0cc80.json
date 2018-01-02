@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x1040613788e99c1606bd133db0ed7f7dbdf0cc80",
+    "address": "0x1040613788e99c1606bd133db0ed7f7dbdf0cc80",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x1040613788e99c1606bd133db0ed7f7dbdf0cc80"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:31+00:00",
+    "icon": "icons\/smartyether_28.png",
+    "totalSupply": "1000000000",
+    "symbol": "STH",
+    "reputation": "UNKNOWN",
+    "name": "STH"
+}

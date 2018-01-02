@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xae258d5322b59d64df9eb483e3b1733332c3b66c",
+    "address": "0xae258d5322b59d64df9eb483e3b1733332c3b66c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xae258d5322b59d64df9eb483e3b1733332c3b66c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:19+00:00",
+    "icon": "icons\/ethergold_28.png",
+    "name": "EtherGold",
+    "totalSupply": "500000",
+    "symbol": "ETHG",
+    "reputation": "UNKNOWN"
+}

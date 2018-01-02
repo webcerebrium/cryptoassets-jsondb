@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+    "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x0d88ed6e74bbfd96b831231638b66c05571e824f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:03+00:00",
+    "icon": "icons\/aventus_28.png",
+    "name": "AVT",
+    "totalSupply": "10000000",
+    "symbol": "AVT",
+    "reputation": "NEUTRAL"
+}

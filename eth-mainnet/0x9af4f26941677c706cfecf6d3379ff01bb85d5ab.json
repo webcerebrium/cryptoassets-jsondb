@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+    "address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x9af4f26941677c706cfecf6d3379ff01bb85d5ab"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:25+00:00",
+    "icon": "icons\/domraider_28.png",
+    "name": "DomRaiderToken",
+    "totalSupply": "1300000000",
+    "symbol": "DRT",
+    "reputation": "NEUTRAL"
+}

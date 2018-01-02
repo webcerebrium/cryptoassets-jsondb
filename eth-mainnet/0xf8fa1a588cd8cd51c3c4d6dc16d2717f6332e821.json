@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf8fa1a588cd8cd51c3c4d6dc16d2717f6332e821",
+    "address": "0xf8fa1a588cd8cd51c3c4d6dc16d2717f6332e821",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf8fa1a588cd8cd51c3c4d6dc16d2717f6332e821"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:22+00:00",
+    "icon": "icons\/boxicoin_28.png",
+    "name": "BOXIcoin",
+    "totalSupply": "375000000",
+    "symbol": "BXc",
+    "reputation": "UNKNOWN"
+}

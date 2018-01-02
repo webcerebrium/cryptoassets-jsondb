@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xb518d165398d9057ea8b73096edda5c7754bcd62",
+    "address": "0xb518d165398d9057ea8b73096edda5c7754bcd62",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb518d165398d9057ea8b73096edda5c7754bcd62"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/eripple_28.png",
+    "name": "eRipple",
+    "symbol": "eRipple"
+}

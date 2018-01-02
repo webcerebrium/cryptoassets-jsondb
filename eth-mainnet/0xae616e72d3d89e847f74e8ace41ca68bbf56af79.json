@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xae616e72d3d89e847f74e8ace41ca68bbf56af79",
+    "address": "0xae616e72d3d89e847f74e8ace41ca68bbf56af79",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xae616e72d3d89e847f74e8ace41ca68bbf56af79"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:55+00:00",
+    "icon": "icons\/goodkarma_28.png",
+    "name": "GoodKarma",
+    "symbol": "GoodKarma"
+}

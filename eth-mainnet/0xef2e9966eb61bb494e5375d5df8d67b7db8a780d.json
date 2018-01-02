@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xef2e9966eb61bb494e5375d5df8d67b7db8a780d",
+    "address": "0xef2e9966eb61bb494e5375d5df8d67b7db8a780d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xef2e9966eb61bb494e5375d5df8d67b7db8a780d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:07+00:00",
+    "icon": "icons\/shitcoin_28.png",
+    "name": "Shitcoin",
+    "totalSupply": "69000000",
+    "symbol": "SHIT",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "ETH-1-0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8",
+    "address": "0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x58ca3065c0f24c7c96aee8d6056b5b5decf9c2f8"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:24+00:00",
+    "name": "GXC",
+    "totalSupply": "9999600.5920557096",
+    "symbol": "GXC",
+    "reputation": "UNKNOWN"
+}

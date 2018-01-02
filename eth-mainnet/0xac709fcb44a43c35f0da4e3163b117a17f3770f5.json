@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xac709fcb44a43c35f0da4e3163b117a17f3770f5",
+    "address": "0xac709fcb44a43c35f0da4e3163b117a17f3770f5",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xac709fcb44a43c35f0da4e3163b117a17f3770f5"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:52+00:00",
+    "icon": "icons\/arcadecity.png",
+    "name": "Arcade",
+    "totalSupply": "9525397.921984591306133876",
+    "symbol": "ARC",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xb8c77482e45f1f44de1745f52c74426c631bdd52"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:56+00:00",
+    "icon": "icons\/binance_28.png",
+    "name": "Binance",
+    "symbol": "Binance"
+}

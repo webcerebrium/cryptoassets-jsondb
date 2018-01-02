@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+    "address": "0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xfec0cf7fe078a500abf15f1284958f22049c2c7e"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:04+00:00",
+    "icon": "icons\/maecenas_28.jpg",
+    "name": "Maecenas",
+    "symbol": "Maecenas"
+}

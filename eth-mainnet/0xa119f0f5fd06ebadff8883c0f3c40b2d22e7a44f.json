@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xa119f0f5fd06ebadff8883c0f3c40b2d22e7a44f",
+    "address": "0xa119f0f5fd06ebadff8883c0f3c40b2d22e7a44f",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xa119f0f5fd06ebadff8883c0f3c40b2d22e7a44f"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:27+00:00",
+    "icon": "icons\/corethum_28.png",
+    "name": "Corethum",
+    "totalSupply": "3000000",
+    "symbol": "CRTM",
+    "reputation": "NEUTRAL"
+}

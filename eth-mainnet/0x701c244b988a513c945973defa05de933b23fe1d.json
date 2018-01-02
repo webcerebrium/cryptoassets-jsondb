@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x701c244b988a513c945973defa05de933b23fe1d",
+    "address": "0x701c244b988a513c945973defa05de933b23fe1d",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x701c244b988a513c945973defa05de933b23fe1d"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:58+00:00",
+    "icon": "icons\/openanx_28.png",
+    "name": "OpenANX",
+    "totalSupply": "100000000",
+    "symbol": "OAX",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2",
+    "address": "0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:28:56+00:00",
+    "icon": "icons\/dao_casino.png",
+    "name": "Dao.CasinoCrowdsale",
+    "symbol": "Dao.CasinoCrowdsale"
+}

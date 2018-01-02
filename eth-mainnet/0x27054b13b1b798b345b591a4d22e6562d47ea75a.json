@@ -1,0 +1,16 @@
+{
+    "_id": "ETH-1-0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+    "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x27054b13b1b798b345b591a4d22e6562d47ea75a"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:11+00:00",
+    "icon": "icons\/airswap_28.png",
+    "name": "AirSwap",
+    "symbol": "AirSwap"
+}

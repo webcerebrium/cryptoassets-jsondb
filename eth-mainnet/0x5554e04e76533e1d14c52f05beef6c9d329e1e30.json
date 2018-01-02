@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x5554e04e76533e1d14c52f05beef6c9d329e1e30",
+    "address": "0x5554e04e76533e1d14c52f05beef6c9d329e1e30",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x5554e04e76533e1d14c52f05beef6c9d329e1e30"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:30:05+00:00",
+    "icon": "icons\/autonio_28.png",
+    "name": "Autonio",
+    "totalSupply": "220466789",
+    "symbol": "NIO",
+    "reputation": "NEUTRAL"
+}

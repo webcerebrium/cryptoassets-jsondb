@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0x6beb418fc6e1958204ac8baddcf109b8e9694966",
+    "address": "0x6beb418fc6e1958204ac8baddcf109b8e9694966",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0x6beb418fc6e1958204ac8baddcf109b8e9694966"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:31:07+00:00",
+    "icon": "icons\/linkercoin.png",
+    "name": "Linker Coin",
+    "totalSupply": "500000000",
+    "symbol": "LNC",
+    "reputation": "NEUTRAL"
+}

@@ -1,0 +1,18 @@
+{
+    "_id": "ETH-1-0xf05a9382a4c3f29e2784502754293d88b835109c",
+    "address": "0xf05a9382a4c3f29e2784502754293d88b835109c",
+    "type": "token",
+    "format": "ERC20",
+    "explorer": [
+        "https:\/\/etherscan.io\/token\/0xf05a9382a4c3f29e2784502754293d88b835109c"
+    ],
+    "links": [],
+    "tags": [],
+    "description": "",
+    "date": "2018-01-02T13:29:01+00:00",
+    "icon": "icons\/rexmls_28.png",
+    "name": "REX - Real Estate tokens",
+    "totalSupply": "24041497.2407046791391124",
+    "symbol": "REX",
+    "reputation": "NEUTRAL"
+}
